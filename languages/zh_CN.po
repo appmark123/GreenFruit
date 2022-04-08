@@ -1,0 +1,4162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-07 22:41+0800\n"
+"PO-Revision-Date: 2014-04-07 22:42+0800\n"
+"Last-Translator: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language-Team: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18 ../loop-blog.php:3 ../page-archives.php:24
+#: ../page-tags.php:24 ../page-user-center.php:17 ../page-wide.php:23
+#: ../page.php:19 ../single.php:19 ../includes/breadcrumbs.php:102
+msgid "Not Found"
+msgstr "没有您要找的内容"
+
+#: ../404.php:20 ../loop-blog.php:5 ../loop.php:4 ../page-archives.php:27
+#: ../page-tags.php:27 ../page-user-center.php:20 ../page-wide.php:26
+#: ../page.php:22 ../single.php:22
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "抱歉，没有你要找的文章，你可以试试搜索功能。"
+
+#: ../archive.php:18
+msgid "Archive: "
+msgstr "存档："
+
+#: ../author.php:27
+msgid "Send a message"
+msgstr "发送站内信"
+
+#: ../author.php:32
+msgid "His/Her Posts"
+msgstr "他/她的文章"
+
+#: ../author.php:38
+#, php-format
+msgid "%s's Posts"
+msgstr "%s 的文章"
+
+#: ../author.php:40
+msgid "Subscribe to this author"
+msgstr "订阅该作者的文章"
+
+#: ../author.php:47
+#, php-format
+msgid "<div class=\"post-count\"> %s has published %s posts :</div>"
+msgstr "<div class=\"post-count\"> %s 已发布了 %s 篇文章：</div>"
+
+#: ../author.php:49
+#, php-format
+msgid ""
+"<div class=\"post-count\"> %s has not yet published any post, you can read "
+"the following wonderful posts : </div>"
+msgstr ""
+"<div class=\"post-count\"> %s 还没有发布任何文章，你可以查看下面的精彩文章："
+"</div>"
+
+#: ../category.php:19
+msgid "Category: "
+msgstr "分类："
+
+#: ../category.php:21
+msgid "Subscribe to this category"
+msgstr "订阅这个分类"
+
+#: ../comments-ajax.php:15 ../comments-ajax.php:25 ../comments-ajax.php:28
+msgid "Invalid comment status."
+msgstr "无效的评论状态。"
+
+#: ../comments-ajax.php:22
+msgid "Sorry, comments are closed for this item."
+msgstr "抱歉，评论已关闭。"
+
+#: ../comments-ajax.php:31
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: ../comments-ajax.php:56
+msgid "Sorry, you must be logged in to post a comment."
+msgstr "您必须登录后才能发表评论。"
+
+#: ../comments-ajax.php:61
+msgid "Error: please fill the required fields (name, email)."
+msgstr "错误：请填写所需的字段（姓名，电子邮件）。"
+
+#: ../comments-ajax.php:63
+msgid "Error: please enter a valid email address."
+msgstr "错误：请输入一个有效的电子邮件地址。"
+
+#: ../comments-ajax.php:66
+msgid "Error: please type a comment."
+msgstr "错误：请输入一些评论文字。"
+
+#: ../comments-ajax.php:71 ../functions/theme-functions.php:180
+msgid "Your comment must contain Chinese."
+msgstr "您的评论必须包含中文字符（Your comment must contain Chinese.）"
+
+#: ../comments-ajax.php:73 ../functions/theme-functions.php:183
+msgid "Comments are not allowed sensitive character."
+msgstr ""
+"评论内容不允许使用敏感字符（Comments are not allowed sensitive character.）"
+
+#: ../comments-ajax.php:85
+msgid ""
+"Duplicate comment detected; it looks as though you&#8217;ve already said "
+"that!"
+msgstr "检测到重复评论;它看起来好像你已经说过了！"
+
+#: ../comments-ajax.php:93
+msgid "You are posting comments too quickly.  Slow down."
+msgstr "您发表评论也太快。慢下来。"
+
+#: ../comments-ajax.php:120
+#, php-format
+msgid "<a class=\"fn\">%s</a>:"
+msgstr "<a class=\"fn\">%s</a>:"
+
+#: ../comments-ajax.php:123
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论等在等待审核…"
+
+#: ../comments.php:7
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "本文已加密，请输入密码后查看评论"
+
+#: ../comments.php:18
+msgid "No comments"
+msgstr "暂无评论"
+
+#: ../comments.php:18
+msgid "One comment"
+msgstr "1 条评论"
+
+#: ../comments.php:18
+msgid "comments"
+msgstr "条评论"
+
+#: ../comments.php:28
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: ../comments.php:32
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: ../comments.php:42
+msgid "You must be"
+msgstr "你必须 "
+
+#: ../comments.php:42
+msgid "Logged in </a>to post a comment."
+msgstr "登录 </a>后才能发表评论。"
+
+#: ../comments.php:46
+msgid "Logged in as "
+msgstr "已登录 "
+
+#: ../comments.php:46
+msgid "Log out"
+msgstr "登出账号"
+
+#: ../comments.php:48
+#, php-format
+msgid "Welcome back <strong>%s</strong>"
+msgstr "欢迎回来 <strong>%s</strong>"
+
+#: ../comments.php:49
+msgid " Change"
+msgstr "[更改]"
+
+#: ../comments.php:81
+msgid "Name"
+msgstr "昵称"
+
+#: ../comments.php:85
+msgid "Email"
+msgstr "邮箱"
+
+#: ../comments.php:89
+msgid "Website"
+msgstr "网址"
+
+#: ../comments.php:99
+msgid "Submit"
+msgstr "提交"
+
+#: ../comments.php:100
+msgid "Rewrite"
+msgstr "重写"
+
+#: ../custom-functions.php:31 ../custom-functions.php:35
+msgid "用户名/邮箱"
+msgstr ""
+
+#: ../custom-functions.php:35
+msgid "用户名"
+msgstr ""
+
+#: ../custom-functions.php:46
+msgid "应用文件"
+msgstr ""
+
+#: ../custom-functions.php:46
+msgid "管理应用文件"
+msgstr ""
+
+#: ../custom-functions.php:47
+msgid "文本"
+msgstr ""
+
+#: ../custom-functions.php:47
+msgid "管理文本文件"
+msgstr ""
+
+#: ../header.php:25
+msgid "Navigation menu"
+msgstr "导航菜单"
+
+#: ../index.php:35
+msgid "You can use Homepage builder to build your homepage"
+msgstr "你可以使用 首页生成器 来设置首页内容"
+
+#: ../page-wide.php:41 ../page.php:37 ../single.php:46
+msgid "Pages:"
+msgstr "特定页面："
+
+#: ../search.php:20
+#, php-format
+msgid "Search: %s"
+msgstr "搜索：%s"
+
+#: ../search.php:23 ../includes/seo.php:113
+#, php-format
+msgid "Posts 0f search results for: %s"
+msgstr "以下是关键词“%s”的搜索结果"
+
+#: ../search.php:27
+msgid "Nothing Found"
+msgstr "没有搜索结果"
+
+#: ../search.php:30
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有搜索结果，请换一个关键词试试哦"
+
+#: ../sidebar-dwqa.php:7
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"DWQA Widget Area\"."
+msgstr ""
+"请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工具 </"
+"a>”设置“DWQA 小工具区”。"
+
+#: ../sidebar.php:12 ../sidebar.php:33 ../sidebar.php:53 ../sidebar.php:72
+#: ../sidebar.php:83
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"Primary Widget Area\" , Or \"<a target="
+"\"_blank\" href=\"/wp-admin/admin.php?page=panel\"> Theme Setting </a>\" to "
+"Set [Sidebars] option ."
+msgstr ""
+"请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工具 </"
+"a>”设置“默认小工具区”；或者访问“<a target=\"_blank\" href=\"/wp-admin/admin."
+"php?page=panel\"> 主题设置 </a>”，通过【边栏设置】自定义右边栏小工具。"
+
+#: ../single.php:57
+msgid "Tagged with: "
+msgstr "标签："
+
+#: ../single.php:62
+msgid "Last edited: "
+msgstr "最后编辑于："
+
+#: ../single.php:62
+msgid "Post By"
+msgstr "作者："
+
+#: ../single.php:71
+msgid "Previous:"
+msgstr "上一篇："
+
+#: ../single.php:72
+msgid "Next:"
+msgstr "下一篇："
+
+#: ../tag.php:18
+msgid "Tag: "
+msgstr "标签："
+
+#: ../tag.php:21
+msgid "Subscribe to this tag"
+msgstr "订阅该标签的文章"
+
+#: ../tag.php:24 ../includes/seo.php:78
+#, php-format
+msgid "The following articles associated with the tag: %s"
+msgstr "以下是与标签“%s”相关联的文章"
+
+#: ../dwqa-templates/content-start-wrapper.php:21
+msgid "Ask a question"
+msgstr "我要提问"
+
+#: ../dwqa-templates/content-start-wrapper.php:23
+msgctxt "post type general name"
+msgid "Question"
+msgstr "问题"
+
+#: ../dwqa-templates/dwqa-functions.php:52
+msgid "DWQA Widget Area"
+msgstr "DWQA 小工具区"
+
+#: ../dwqa-templates/dwqa-functions.php:54
+msgid "The DW Questions & Answer widget area"
+msgstr "DWQA 小工具区"
+
+#: ../functions/categories-metas.php:139 ../functions/categories-metas.php:155
+#: ../functions/categories-metas.php:253 ../panel/mpanel-ui.php:928
+#: ../panel/mpanel-ui.php:965 ../panel/mpanel-ui.php:1002
+#: ../panel/mpanel-ui.php:1039
+msgid "Image"
+msgstr "图片"
+
+#: ../functions/categories-metas.php:142 ../functions/categories-metas.php:157
+#: ../functions/categories-metas.php:235
+msgid "Uplaod/Add a image"
+msgstr "上传/添加图片"
+
+#: ../functions/categories-metas.php:158 ../functions/categories-metas.php:236
+msgid "Delete image"
+msgstr "删除图片"
+
+#: ../functions/categories-metas.php:271
+msgid "Category image"
+msgstr "分类图片"
+
+#: ../functions/categories-metas.php:278
+msgid "Inserted into the post"
+msgstr "插入到文章"
+
+#: ../functions/categories-metas.php:278
+msgid "Use this iamge"
+msgstr "使用这张图片"
+
+#: ../functions/theme-functions.php:30
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: ../functions/theme-functions.php:31
+msgid "Footer Menu"
+msgstr "底部菜单"
+
+#: ../functions/theme-functions.php:32
+msgid "Footer Link"
+msgstr "底部友链"
+
+#: ../functions/theme-functions.php:33
+msgid "User Menu"
+msgstr "用户菜单"
+
+#: ../functions/theme-functions.php:34
+msgid "Admin Menu"
+msgstr "管理员菜单"
+
+#: ../functions/theme-functions.php:59
+msgid ""
+"WordPress version you are currently using is less than 3.6, in order to "
+"ensure the normal use of the theme, please update to version 3.6 or above."
+msgstr ""
+"当前使用的WordPress版本低于 3.6，为了保证主题的正常使用，请升级至 3.6 或以上"
+"版本。"
+
+#: ../functions/theme-functions.php:71
+msgid ""
+"This theme requires you to install the <strong> WP-PostViews </strong> "
+"plugin, <a href=\"http://wordpress.org/plugins/wp-postviews/\" target="
+"\"_blank\">download it from here</a>."
+msgstr ""
+"当前启用的主题需要安装<strong> WP-PostViews </strong> 插件才可以正常统计浏览"
+"次数，您可以在插件安装界面搜索安装，也可以 <a href=\"http://wordpress.org/"
+"plugins/wp-postviews/\" target=\"_blank\">在这里下载</a>。"
+
+#: ../functions/theme-functions.php:103
+msgid "Custom Post Types Archive"
+msgstr "自定义文章类型存档"
+
+#: ../functions/theme-functions.php:125
+msgid "Add to menu"
+msgstr "添加至菜单"
+
+#: ../functions/theme-functions.php:130
+msgid "No Custom Post Types."
+msgstr "没有自定义文章类型"
+
+#: ../functions/theme-functions.php:264
+msgid "Please Visit \"Appearance > Menus\" to build menus"
+msgstr "请访问 “外观 > 菜单”设置菜单"
+
+#: ../functions/theme-functions.php:337 ../panel/mpanel-ui.php:638
+msgid "QQ"
+msgstr "QQ"
+
+#: ../functions/theme-functions.php:338
+msgid "QQ Mail Me"
+msgstr "QQ邮箱“邮我”"
+
+#: ../functions/theme-functions.php:339
+#: ../includes/widgets/widget-follow-subscribe.php:39
+#: ../panel/mpanel-ui.php:633
+msgid "QQ Weibo"
+msgstr "腾讯微博"
+
+#: ../functions/theme-functions.php:340
+#: ../includes/widgets/widget-follow-subscribe.php:36
+#: ../panel/mpanel-ui.php:628
+msgid "Sina Weibo"
+msgstr "新浪微博"
+
+#: ../functions/theme-functions.php:341
+#: ../includes/widgets/widget-follow-subscribe.php:42
+#: ../panel/mpanel-ui.php:648
+msgid "Twitter"
+msgstr "Twitter URL"
+
+#: ../functions/theme-functions.php:342
+#: ../includes/widgets/widget-follow-subscribe.php:45
+#: ../panel/mpanel-ui.php:643
+msgid "Google+"
+msgstr "Google+ URL"
+
+#: ../functions/theme-functions.php:343
+msgid "Donate url"
+msgstr "赞助链接"
+
+#: ../functions/theme-functions.php:366 ../functions/theme-functions.php:369
+#, php-format
+msgid ""
+"Please visit <a href=\"%s\">Your Profile</a> to fill in Biographical Info."
+msgstr "请访问<a href=\"%s\">个人资料</a>填写个人简介。"
+
+#: ../functions/theme-functions.php:371
+msgid "The user is lazy, not fill in his Biographical Info."
+msgstr "该用户很懒，还没有介绍自己。"
+
+#: ../functions/theme-functions.php:383
+#, php-format
+msgid "Read more articles of %s"
+msgstr "阅读 %s 的其他文章"
+
+#: ../functions/theme-functions.php:388
+#, php-format
+msgid "Donate to %s"
+msgstr "赞助 %s"
+
+#: ../functions/theme-functions.php:393
+#, php-format
+msgid "Visit %s's site"
+msgstr "访问 %s 的网站"
+
+#: ../functions/theme-functions.php:398
+#, php-format
+msgid "Contact %s by QQ"
+msgstr "通过QQ联系 %s"
+
+#: ../functions/theme-functions.php:403
+#, php-format
+msgid "Contact %s by Private Messages"
+msgstr "给 %s 发送站内信"
+
+#: ../functions/theme-functions.php:407
+#, php-format
+msgid "Contact %s by Email"
+msgstr "给 %s 发送邮件"
+
+#: ../functions/theme-functions.php:412
+#, php-format
+msgid "Follow %s on Sina Weibo"
+msgstr "关注 %s 的新浪微博"
+
+#: ../functions/theme-functions.php:417
+#, php-format
+msgid "Follow %s on QQ Weibo"
+msgstr "关注 %s 的腾讯微博"
+
+#: ../functions/theme-functions.php:422
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "关注 %s 的 Twitter"
+
+#: ../functions/theme-functions.php:427
+#, php-format
+msgid "Follow %s on Google+"
+msgstr "关注 %s 的 Google+"
+
+#: ../functions/theme-functions.php:478
+msgid ""
+"Expand / Collapse All </a>] <em>(Note: Click on the month you can expand "
+"it)</em>"
+msgstr "全部展开/收缩</a>] <em>( 注：点击月份可以分别展开它们 )</em>"
+
+#: ../functions/theme-functions.php:489
+msgid " Year"
+msgstr " 年"
+
+#: ../functions/theme-functions.php:493
+msgid " Month"
+msgstr " 月"
+
+#: ../functions/theme-functions.php:495
+msgid " Day: "
+msgstr " 日： "
+
+#: ../functions/theme-functions.php:551 ../includes/post-meta.php:20
+msgid "Edit"
+msgstr "编辑"
+
+#: ../functions/theme-functions.php:554
+msgid "Your comment is awaiting moderation ..."
+msgstr "您的评论等在等待审核…"
+
+#: ../functions/theme-functions.php:560
+msgid "[Reply]"
+msgstr "[回复]"
+
+#: ../functions/theme-functions.php:649
+#, php-format
+msgid "Hi! Someone just reply to your comments on %s"
+msgstr "您好！有人回复了您发表在 %s  的评论"
+
+#: ../functions/theme-functions.php:652
+#, php-format
+msgid "Hi! %s"
+msgstr "您好！%s "
+
+#: ../functions/theme-functions.php:653
+#, php-format
+msgid "Your comments on %s :"
+msgstr "您发表在  %s  的评论："
+
+#: ../functions/theme-functions.php:655
+msgid " Reply to you:"
+msgstr "给您的回复："
+
+#: ../functions/theme-functions.php:657
+#, php-format
+msgid "Click <a href=\"%s\">HERE</a> for more details."
+msgstr "点击 <a href=\"%s\"> 这里 </a> 查看等多详情。"
+
+#: ../functions/theme-functions.php:658
+msgid "Welcome back to"
+msgstr "欢迎再次回访 "
+
+#: ../functions/theme-functions.php:659
+msgid "This message is sent automatically by the system, do not reply to."
+msgstr "本信息由系统自动发出，请不要直接回复。"
+
+#: ../functions/theme-functions.php:671
+msgid "E-mail me when someone replies to me."
+msgstr "有人回复时邮件通知我"
+
+#: ../functions/theme-functions.php:777 ../functions/theme-functions.php:795
+#: ../functions/theme-functions.php:818 ../functions/theme-functions.php:841
+#: ../functions/theme-functions.php:869 ../includes/post-related.php:36
+#: ../includes/post-related.php:40 ../includes/post-related.php:51
+#: ../includes/post-related.php:55
+#, php-format
+msgid "Permalink to %s"
+msgstr "链接到  %s"
+
+#: ../functions/theme-functions.php:896 ../functions/theme-functions.php:938
+msgid "No items in the selected time period."
+msgstr "在所选的时间段没有符合的内容。"
+
+#: ../functions/theme-functions.php:959
+#, php-format
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s 分"
+msgstr[1] "%s 分"
+
+#: ../functions/theme-functions.php:959 ../functions/theme-functions.php:965
+#: ../functions/theme-functions.php:970 ../functions/theme-functions.php:976
+msgid "ago"
+msgstr "前"
+
+#: ../functions/theme-functions.php:965
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s 小时"
+msgstr[1] "%s 小时"
+
+#: ../functions/theme-functions.php:970 ../functions/theme-functions.php:976
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s 天"
+msgstr[1] "%s 天"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Go to Home"
+msgstr "返回首页"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Home"
+msgstr "首页"
+
+#: ../includes/breadcrumbs.php:47 ../includes/breadcrumbs.php:54
+msgid "article"
+msgstr "正文"
+
+#: ../includes/breadcrumbs.php:84
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s 的搜索结果"
+
+#: ../includes/breadcrumbs.php:89
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "标签存档：%s"
+
+#: ../includes/breadcrumbs.php:97
+#, php-format
+msgid "Author Archives: %s"
+msgstr " %s 的文章 "
+
+#: ../includes/breadcrumbs.php:108
+#, php-format
+msgid "( Page %s )"
+msgstr "（第 %s 页）"
+
+#: ../includes/pagenavi.php:116
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "%CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: ../includes/pagenavi.php:119
+msgid "&laquo; First"
+msgstr "&laquo; 首页"
+
+#: ../includes/pagenavi.php:120
+msgid "Last &raquo;"
+msgstr "尾页 &raquo;"
+
+#: ../includes/pagenavi.php:121
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../includes/pagenavi.php:122
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../includes/pagenavi.php:123 ../includes/pagenavi.php:124
+msgid "..."
+msgstr "..."
+
+#: ../includes/post-related.php:28
+msgid "Random Articles"
+msgstr "随便看看"
+
+#: ../includes/post-related.php:46
+msgid "Related Articles"
+msgstr "相关文章"
+
+#: ../includes/seo.php:8 ../includes/seo.php:16 ../includes/seo.php:26
+#: ../includes/seo.php:37 ../includes/seo.php:44
+#, php-format
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: ../includes/seo.php:121
+#, php-format
+msgid "Posts 0f author: %s"
+msgstr "作者“%s”的文章"
+
+#: ../includes/seo.php:126
+#, php-format
+msgid "Page %s:"
+msgstr "第%s页："
+
+#: ../includes/top-nav.php:10
+msgid "unread messages"
+msgstr "未读信息"
+
+#: ../includes/top-nav.php:13
+msgid "Manage"
+msgstr "管理"
+
+#: ../includes/top-nav.php:22 ../includes/widgets/widget-login.php:50
+msgid "Logout"
+msgstr "登出"
+
+#: ../includes/top-nav.php:31 ../includes/top-nav.php:36
+#: ../includes/widgets/widget-login.php:63
+msgid "Login"
+msgstr "登录"
+
+#: ../includes/top-nav.php:36
+msgid "Lost password"
+msgstr "忘记密码"
+
+#: ../includes/top-nav.php:47
+msgid "Register"
+msgstr "注册"
+
+#: ../includes/top-nav.php:53
+msgid "Join QQ group"
+msgstr "加入Q群"
+
+#: ../includes/top-nav.php:81
+msgid "Search …"
+msgstr "搜索 ..."
+
+#: ../includes/top-nav.php:82
+msgid "Search"
+msgstr "搜索"
+
+#: ../includes/widgets.php:43
+msgid "Primary Widget Area"
+msgstr "默认小工具区"
+
+#: ../includes/widgets.php:45
+msgid "The Primary widget area"
+msgstr "默认小工具区"
+
+#: ../includes/widgets.php:52
+msgid "Questions Widget Area"
+msgstr "问答小工具区"
+
+#: ../includes/widgets.php:54
+msgid "The Questions widget area"
+msgstr "问答小工具区"
+
+#: ../includes/widgets/widget-author-posts.php:9
+msgid "Display posts of current author."
+msgstr "显示该文章作者的其他文章"
+
+#: ../includes/widgets/widget-author-posts.php:10
+msgid " - Posts By Post Author"
+msgstr " - 作者的文章"
+
+#: ../includes/widgets/widget-author-posts.php:24
+#, php-format
+msgid "By %s"
+msgstr "%s的文章"
+
+#: ../includes/widgets/widget-author-posts.php:32
+msgid "All"
+msgstr "所有"
+
+#: ../includes/widgets/widget-author-posts.php:50
+#: ../includes/widgets/widget-author.php:35
+msgid "This Widget appears in single post only ."
+msgstr "这个小工具只会出现在文章页面。"
+
+#: ../includes/widgets/widget-author-posts.php:52
+#: ../includes/widgets/widget-category.php:51
+#: ../includes/widgets/widget-news-pic.php:49
+#: ../includes/widgets/widget-posts.php:54
+#: ../includes/widgets/widget-slider.php:195
+msgid "Number of posts to show: "
+msgstr "文章数量："
+
+#: ../includes/widgets/widget-author-posts.php:56
+msgid "Display ( see all ) link : "
+msgstr "显示（查看所有）链接："
+
+#: ../includes/widgets/widget-author.php:9
+msgid "Display author's information in single post page."
+msgstr "在文章页面的边栏显示作者信息"
+
+#: ../includes/widgets/widget-author.php:10
+msgid " - Post Author"
+msgstr " - 文章作者"
+
+#: ../includes/widgets/widget-author.php:19
+#, php-format
+msgid "About %s"
+msgstr "关于 %s"
+
+#: ../includes/widgets/widget-author.php:37
+msgid "Display author's avatar : "
+msgstr "显示作者的头像："
+
+#: ../includes/widgets/widget-author.php:41
+msgid "Display Social icons : "
+msgstr "显示社交图标："
+
+#: ../includes/widgets/widget-category.php:8
+msgid "Display posts of any category."
+msgstr "显示某（些）分类的文章"
+
+#: ../includes/widgets/widget-category.php:10
+msgid " - Category Posts"
+msgstr " - 分类文章"
+
+#: ../includes/widgets/widget-category.php:38
+msgid "Category Posts"
+msgstr "分类文章"
+
+#: ../includes/widgets/widget-category.php:47
+#: ../includes/widgets/widget-comment.php:44
+#: ../includes/widgets/widget-follow-subscribe.php:88
+#: ../includes/widgets/widget-login.php:66
+#: ../includes/widgets/widget-news-pic.php:45
+#: ../includes/widgets/widget-posts.php:50
+#: ../includes/widgets/widget-qr-code.php:75
+#: ../includes/widgets/widget-readers.php:35
+#: ../includes/widgets/widget-recently-viewed.php:38
+#: ../includes/widgets/widget-slider.php:187
+#: ../includes/widgets/widget-statistics.php:76
+#: ../includes/widgets/widget-tag-cloud.php:64
+#: ../includes/widgets/widget-text-html.php:55
+msgid "Title : "
+msgstr "标题："
+
+#: ../includes/widgets/widget-category.php:56
+#: ../includes/widgets/widget-news-pic.php:54
+#: ../includes/widgets/widget-slider.php:252
+msgid "Category : "
+msgstr "分类："
+
+#: ../includes/widgets/widget-category.php:64
+#: ../includes/widgets/widget-posts.php:66
+msgid "Display Thumbinals : "
+msgstr "显示缩略图："
+
+#: ../includes/widgets/widget-comment.php:6
+msgid ""
+"Display vistor's recently comments(including avatar, name and comment text)"
+msgstr "显示访客最近的评论（包括头像、名称和内容）"
+
+#: ../includes/widgets/widget-comment.php:7
+msgid " - Recently Comments"
+msgstr " - 最新评论"
+
+#: ../includes/widgets/widget-comment.php:32
+msgid "Recently Comments"
+msgstr "最新评论"
+
+#: ../includes/widgets/widget-comment.php:49
+#: ../includes/widgets/widget-readers.php:39
+msgid "Number: "
+msgstr "显示数量："
+
+#: ../includes/widgets/widget-comment.php:54
+msgid "Exclude user(ID): "
+msgstr "排除某人（ID）："
+
+#: ../includes/widgets/widget-comment.php:59
+msgid "Exclude post(ID): "
+msgstr "排除谋篇文章（ID）："
+
+#: ../includes/widgets/widget-comment.php:72
+#: ../includes/widgets/widget-comment.php:74
+#, php-format
+msgid "Comments on %s"
+msgstr "发表在  %s  上的评论"
+
+#: ../includes/widgets/widget-custom-author.php:8
+msgid "Custom author's information."
+msgstr "自定义作者介绍"
+
+#: ../includes/widgets/widget-custom-author.php:10
+msgid " - Custom Author Bio"
+msgstr " - 自定义作者介绍"
+
+#: ../includes/widgets/widget-custom-author.php:39
+msgid "About Author"
+msgstr "关于作者"
+
+#: ../includes/widgets/widget-custom-author.php:46
+msgid "Avatar : "
+msgstr "头像："
+
+#: ../includes/widgets/widget-custom-author.php:50
+msgid "About : <i>You can use Shortcodes</i>"
+msgstr "关于：<i>你可以使用简码</i>"
+
+#: ../includes/widgets/widget-follow-subscribe.php:8
+msgid "Display your social and subscribe information."
+msgstr "显示您的社交网络信息和网站订阅表单"
+
+#: ../includes/widgets/widget-follow-subscribe.php:10
+msgid " - Follow & Subscribe"
+msgstr " - 关注&订阅"
+
+#: ../includes/widgets/widget-follow-subscribe.php:30
+msgid "Contact me by QQ"
+msgstr "通过QQ联系"
+
+#: ../includes/widgets/widget-follow-subscribe.php:33
+msgid "Send email"
+msgstr "发送邮件"
+
+#: ../includes/widgets/widget-follow-subscribe.php:48
+msgid "Feed Subscription"
+msgstr "Feed 订阅"
+
+#: ../includes/widgets/widget-follow-subscribe.php:53
+msgid "Subscribe To:"
+msgstr "订阅到："
+
+#: ../includes/widgets/widget-follow-subscribe.php:54
+msgid "XianGuo"
+msgstr "鲜果"
+
+#: ../includes/widgets/widget-follow-subscribe.php:55
+msgid "Youdao"
+msgstr "有道"
+
+#: ../includes/widgets/widget-follow-subscribe.php:56
+msgid "Feedly"
+msgstr "Feedly"
+
+#: ../includes/widgets/widget-follow-subscribe.php:58
+msgid "Subscribe URL:"
+msgstr "订阅地址："
+
+#: ../includes/widgets/widget-follow-subscribe.php:66
+msgid "Enter your E-mail"
+msgstr "输入邮箱，订阅本站"
+
+#: ../includes/widgets/widget-follow-subscribe.php:66
+msgctxt "Subscribe to Email"
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../includes/widgets/widget-follow-subscribe.php:85
+msgid "Follow & Subscribe"
+msgstr "关注&订阅"
+
+#: ../includes/widgets/widget-follow-subscribe.php:92
+#: ../includes/widgets/widget-qr-code.php:103
+#: ../includes/widgets/widget-slider.php:191
+#: ../includes/widgets/widget-text-html.php:59
+msgid "Hide Widget Title :"
+msgstr "隐藏小工具标题："
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:8
+msgid " - List Custom Taxonomy"
+msgstr " - 自定义分类列表"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:101
+msgid "No Categories"
+msgstr "无分类"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:185
+msgid "Title:"
+msgstr "标题："
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:189
+msgid "Select Taxonomy:"
+msgstr "选择分类法"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:207
+msgid "More Options..."
+msgstr "更多选项..."
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:209
+msgid "Hide Extended Options"
+msgstr "隐藏扩展选项"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:212
+msgid "Show post counts"
+msgstr "显示文章数量"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:214
+msgid "Show hierarchy"
+msgstr "显示层级关系"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:216
+msgid "Order By:"
+msgstr "排序依据："
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:226
+msgid "Ascending"
+msgstr "升序"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:227
+msgid "Descending"
+msgstr "降序"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:230
+msgid "Exclude (comma-separated list of ids to exclude)"
+msgstr "排除（使用英文逗号分隔每个 ID）"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:234
+msgid "Only Show Children of (category id)"
+msgstr "仅显示一下分类的子分类（分类 ID）"
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:238
+msgid "Display as Dropdown"
+msgstr "下拉显示"
+
+#: ../includes/widgets/widget-login.php:10
+msgid " - Login"
+msgstr " - 登录"
+
+#: ../includes/widgets/widget-login.php:11
+msgid "A Login Widget"
+msgstr "一个用户登录小工具"
+
+#: ../includes/widgets/widget-login.php:30
+msgid "Username:"
+msgstr "用户名："
+
+#: ../includes/widgets/widget-login.php:33
+msgid "Password:"
+msgstr "密&nbsp;&nbsp;&nbsp;码："
+
+#: ../includes/widgets/widget-login.php:36
+msgid "Log in"
+msgstr "用户登录"
+
+#: ../includes/widgets/widget-login.php:37
+msgid "Remember Me"
+msgstr "记住密码"
+
+#: ../includes/widgets/widget-login.php:47
+msgid "Dashboard"
+msgstr "控制面板"
+
+#: ../includes/widgets/widget-login.php:48
+msgid "New Post"
+msgstr "发布文章"
+
+#: ../includes/widgets/widget-login.php:49
+msgid "Your Profile"
+msgstr "你的个人资料"
+
+#: ../includes/widgets/widget-news-pic.php:8
+msgid "Display posts with big image of any category."
+msgstr "以图片形式显示某（些）分类的文章"
+
+#: ../includes/widgets/widget-news-pic.php:10
+msgid " - News in Pictures"
+msgstr " - 图片文章"
+
+#: ../includes/widgets/widget-news-pic.php:36
+msgid "News in Pictures"
+msgstr "图片模块"
+
+#: ../includes/widgets/widget-news-pic.php:62
+#: ../includes/widgets/widget-posts.php:58
+msgid "Posts order : "
+msgstr "文章顺序："
+
+#: ../includes/widgets/widget-news-pic.php:64
+#: ../includes/widgets/widget-posts.php:60
+msgid "Most recent"
+msgstr "最新文章"
+
+#: ../includes/widgets/widget-news-pic.php:65
+#: ../includes/widgets/widget-posts.php:61 ../panel/mpanel-ui.php:487
+msgid "Random"
+msgstr "随机文章"
+
+#: ../includes/widgets/widget-posts.php:8
+msgid "Display latest posts, random posts or posts with most comments."
+msgstr "显示最新文章、随机文章或评论最多的文章"
+
+#: ../includes/widgets/widget-posts.php:10
+msgid " - Posts list"
+msgstr " - 文章列表"
+
+#: ../includes/widgets/widget-posts.php:47
+msgid "Recent Posts"
+msgstr "最新文章"
+
+#: ../includes/widgets/widget-posts.php:62
+msgid "Popular"
+msgstr "热门文章"
+
+#: ../includes/widgets/widget-posts.php:69
+msgid "The following options apply only to popular."
+msgstr "下面的选项只适用于“热门文章”："
+
+#: ../includes/widgets/widget-posts.php:71
+msgid "Time limit of popular: "
+msgstr "显示多少天内的热门文章："
+
+#: ../includes/widgets/widget-qr-code.php:8
+msgid "QR Code for homepage and single post."
+msgstr "自动生成显示网站首页和文章页的二维码"
+
+#: ../includes/widgets/widget-qr-code.php:9
+msgid " - QR Code"
+msgstr " - 二维码"
+
+#: ../includes/widgets/widget-qr-code.php:69
+msgid "QR Code"
+msgstr "二维码"
+
+#: ../includes/widgets/widget-qr-code.php:72
+msgid "This widget only display on homepage and single posts"
+msgstr "此小工具只会在首页和文章页显示"
+
+#: ../includes/widgets/widget-qr-code.php:79
+msgid "QR Code Size (default 150) : "
+msgstr "二维码大小（默认 150）："
+
+#: ../includes/widgets/widget-qr-code.php:83
+msgid "Error Correction Level (default L) : "
+msgstr "纠错等级（默认 L）："
+
+#: ../includes/widgets/widget-qr-code.php:92
+msgid "Margin (default Version 1) : "
+msgstr "留白边距（默认 版本 1）："
+
+#: ../includes/widgets/widget-qr-code.php:107
+#: ../includes/widgets/widget-text-html.php:63
+msgid "Center content :"
+msgstr "居中对齐："
+
+#: ../includes/widgets/widget-qr-code.php:111
+msgid "Cache QR Code :"
+msgstr "缓存二维码："
+
+#: ../includes/widgets/widget-qr-code.php:113
+msgid ""
+"To cache QR code, you must create a new folder named \"qrcode\" in the "
+"site's root directory, and make sure it is writable (0755).<br /><br />You "
+"can get more details from <a href=\"http://www.wpdaxue.com/add-qr-code-for-"
+"wordpress.html\" target=\"_blank\"> wpdaxue.com </a> & <a href=\"https://"
+"developers.google.com/chart/infographics/docs/qr_codes\" target=\"_blank\"> "
+"Google QR Code API </a>"
+msgstr ""
+"开启“缓存二维码”前，你必须在网站的根目录创建一个名为“qrcode”的文件夹，并且保"
+"证它是可写入的（0755）。<br/><br />更多详情，请访问 <a href=\"http://www."
+"wpdaxue.com/add-qr-code-for-wordpress.html\" target=\"_blank\"> WordPress大"
+"学 </a> 和 <a href=\"https://developers.google.com/chart/infographics/docs/"
+"qr_codes\" target=\"_blank\"> Google QR Code API </a>。"
+
+#: ../includes/widgets/widget-readers.php:6
+msgid " - Active readers"
+msgstr " - 活跃读者"
+
+#: ../includes/widgets/widget-readers.php:6
+msgid "Display avatar of the most active readers."
+msgstr "显示近期最活跃的读者的头像"
+
+#: ../includes/widgets/widget-readers.php:31
+msgid "Active readers"
+msgstr "活跃读者"
+
+#: ../includes/widgets/widget-readers.php:43
+msgid "Exclude someone(ID): "
+msgstr "排除某人（ID）："
+
+#: ../includes/widgets/widget-readers.php:47
+msgid "Time limit(Days): "
+msgstr "时间期限（天）："
+
+#: ../includes/widgets/widget-recently-viewed.php:10
+msgid "Show posts of visitors recently viewed"
+msgstr "显示访客最近阅读过的文章"
+
+#: ../includes/widgets/widget-recently-viewed.php:12
+msgid " - Recently Viewed"
+msgstr " - 最近阅读"
+
+#: ../includes/widgets/widget-recently-viewed.php:34
+msgid "You recently viewed"
+msgstr "您最近看过"
+
+#: ../includes/widgets/widget-slider.php:8
+msgid "Display posts using a slide."
+msgstr "以幻灯的形式显示文章"
+
+#: ../includes/widgets/widget-slider.php:10
+msgid " - Slider"
+msgstr " - 幻灯"
+
+#: ../includes/widgets/widget-slider.php:199
+msgid "Width of images: "
+msgstr "图片宽度："
+
+#: ../includes/widgets/widget-slider.php:203
+msgid "Height of images: "
+msgstr "图片高度："
+
+#: ../includes/widgets/widget-slider.php:207
+msgid "Transition mode : "
+msgstr "过渡模式："
+
+#: ../includes/widgets/widget-slider.php:209
+msgid "fade"
+msgstr "渐隐切换"
+
+#: ../includes/widgets/widget-slider.php:210
+msgid "horizontal"
+msgstr "横向切换"
+
+#: ../includes/widgets/widget-slider.php:211
+msgid "vertical"
+msgstr "纵向切换"
+
+#: ../includes/widgets/widget-slider.php:215
+msgid "Pause : "
+msgstr "暂停间隔："
+
+#: ../includes/widgets/widget-slider.php:219
+msgid "Display post's title :"
+msgstr "文章标题："
+
+#: ../includes/widgets/widget-slider.php:223
+msgid "Hover pause :"
+msgstr "鼠标悬停："
+
+#: ../includes/widgets/widget-slider.php:227
+msgid "Auto play :"
+msgstr "自动播放："
+
+#: ../includes/widgets/widget-slider.php:231
+msgid "Controls :"
+msgstr "控制按钮："
+
+#: ../includes/widgets/widget-slider.php:235
+msgid "Pager :"
+msgstr "幻灯页码："
+
+#: ../includes/widgets/widget-slider.php:239
+msgid "Slider query : "
+msgstr "幻灯内容："
+
+#: ../includes/widgets/widget-slider.php:241
+msgid "category"
+msgstr "分类"
+
+#: ../includes/widgets/widget-slider.php:242
+msgid "tag"
+msgstr "标签"
+
+#: ../includes/widgets/widget-slider.php:243
+msgid "post"
+msgstr "特定文章"
+
+#: ../includes/widgets/widget-slider.php:244
+msgid "page"
+msgstr "特定页面"
+
+#: ../includes/widgets/widget-slider.php:245
+msgid "sticky"
+msgstr "置顶文章"
+
+#: ../includes/widgets/widget-slider.php:246
+msgid "custom"
+msgstr "自定义幻灯"
+
+#: ../includes/widgets/widget-slider.php:249
+msgid ""
+"The following options are based on the above \"Slider query\" settings : "
+msgstr "以下选项基于“幻灯内容”设置："
+
+#: ../includes/widgets/widget-slider.php:258
+msgid ""
+"Select categories, use the Ctrl key combination to select multiple "
+"categories."
+msgstr "可以使用 Ctrl 组合键选择多个分类"
+
+#: ../includes/widgets/widget-slider.php:261
+msgid "Tags : "
+msgstr "标签："
+
+#: ../includes/widgets/widget-slider.php:263
+msgid "Enter the tag name, use commas to separate names."
+msgstr "输入标签名称，用英文逗号隔开多个名称"
+
+#: ../includes/widgets/widget-slider.php:266
+msgid "Posts : "
+msgstr "特定文章："
+
+#: ../includes/widgets/widget-slider.php:268
+msgid "Enter the post's ID, use commas to separate IDs."
+msgstr "输入文章ID，用英文逗号隔开多个ID"
+
+#: ../includes/widgets/widget-slider.php:271
+msgid "Pages : "
+msgstr "特定页面："
+
+#: ../includes/widgets/widget-slider.php:273
+msgid "Enter the page's ID, use commas to separate IDs."
+msgstr "输入页面ID，用英文逗号隔开多个ID"
+
+#: ../includes/widgets/widget-slider.php:277
+msgid "Custom : "
+msgstr "自定义幻灯："
+
+#: ../includes/widgets/widget-slider.php:283
+msgid ""
+"Select a custom slider. Please make sure that you have created a custom "
+"slider at least, if not, <a  href=\"/wp-admin/post-new.php?"
+"post_type=cmp_slider\" target=\"_blank\">create one</a> now."
+msgstr ""
+"选择一个自定义幻灯。请确保你至少已经创建了一个自定义幻灯，如果没有，那就 <a  "
+"href=\"/wp-admin/post-new.php?post_type=cmp_slider\" target=\"_blank\">创建一"
+"个</a> 吧。"
+
+#: ../includes/widgets/widget-statistics.php:8
+msgid "Display Statistics of posts, comments, pages and so on."
+msgstr "显示文章数、评论数、页面数以及建站日期等信息"
+
+#: ../includes/widgets/widget-statistics.php:9
+msgid " - Statistics"
+msgstr " - 统计信息"
+
+#: ../includes/widgets/widget-statistics.php:30
+#, php-format
+msgid "Start Date : %s "
+msgstr "建站日期：%s "
+
+#: ../includes/widgets/widget-statistics.php:34
+#, php-format
+msgid "Last Updated : %s "
+msgstr "最后更新：%s"
+
+#: ../includes/widgets/widget-statistics.php:36
+#, php-format
+msgid "Online Days : %s "
+msgstr "运行天数：%s 天"
+
+#: ../includes/widgets/widget-statistics.php:38
+#, php-format
+msgid "Users Number : %s "
+msgstr "用户数量：%s 个"
+
+#: ../includes/widgets/widget-statistics.php:41
+#, php-format
+msgid "Posts Number : %s "
+msgstr "文章数量：%s 篇"
+
+#: ../includes/widgets/widget-statistics.php:43
+#, php-format
+msgid "Comments Number : %s "
+msgstr "评论数量：%s 条"
+
+#: ../includes/widgets/widget-statistics.php:46
+#, php-format
+msgid "Pages Number : %s "
+msgstr "页面数量：%s 个"
+
+#: ../includes/widgets/widget-statistics.php:48
+#, php-format
+msgid "Categories Number : %s "
+msgstr "分类数量：%s 个"
+
+#: ../includes/widgets/widget-statistics.php:50
+#, php-format
+msgid "Tags Number : %s "
+msgstr "标签数量：%s 个"
+
+#: ../includes/widgets/widget-statistics.php:80
+msgid "Start Date (e.g.2013-05-01) : "
+msgstr "建站日期（例如 2013-05-01）："
+
+#: ../includes/widgets/widget-statistics.php:84
+msgid "Display Last Updated : "
+msgstr "显示最后更新日期："
+
+#: ../includes/widgets/widget-statistics.php:88
+msgid "Display Online Days : "
+msgstr "显示运行天数："
+
+#: ../includes/widgets/widget-statistics.php:92
+msgid "Display Users Number : "
+msgstr "显示用户数量："
+
+#: ../includes/widgets/widget-statistics.php:96
+msgid "Display Posts Number : "
+msgstr "显示文章数量："
+
+#: ../includes/widgets/widget-statistics.php:100
+msgid "Display Comments Number : "
+msgstr "显示评论数量："
+
+#: ../includes/widgets/widget-statistics.php:104
+msgid "Display Pages Number : "
+msgstr "显示页面数量："
+
+#: ../includes/widgets/widget-statistics.php:108
+msgid "Display Categories Number : "
+msgstr "显示分类数量："
+
+#: ../includes/widgets/widget-statistics.php:112
+msgid "Display Tags Number : "
+msgstr "显示标签数量："
+
+#: ../includes/widgets/widget-tag-cloud.php:8
+msgid "Display the most common tags."
+msgstr "显示使用次数最多的标签云"
+
+#: ../includes/widgets/widget-tag-cloud.php:9
+msgid " - Tag Cloud"
+msgstr " - 标签云"
+
+#: ../includes/widgets/widget-tag-cloud.php:25 ../panel/mpanel-ui.php:748
+msgid "Tags"
+msgstr "标签"
+
+#: ../includes/widgets/widget-tag-cloud.php:66
+msgid "Taxonomies :"
+msgstr "分类法："
+
+#: ../includes/widgets/widget-tag-cloud.php:76
+msgid "Number to show (Default \"45\"): "
+msgstr "显示的数量（默认“45”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:78
+msgid "Tags orderby (Default \"name\"]): "
+msgstr "标签排序依据（默认“标签名称”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:80
+msgid "name"
+msgstr "标签名称"
+
+#: ../includes/widgets/widget-tag-cloud.php:81
+msgid "count"
+msgstr "使用次数"
+
+#: ../includes/widgets/widget-tag-cloud.php:84
+msgid "Tags order (Default \"ASC\"): "
+msgstr "标签排序方式（默认“ASC”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:86
+msgid "ASC"
+msgstr "ASC（升序）"
+
+#: ../includes/widgets/widget-tag-cloud.php:87
+msgid "DESC"
+msgstr "DESC（降序）"
+
+#: ../includes/widgets/widget-tag-cloud.php:88
+msgid "RAND"
+msgstr "RAND（随机）"
+
+#: ../includes/widgets/widget-tag-cloud.php:91
+msgid "Unit (Default \"pt\"):"
+msgstr "字体单位（默认“pt”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:93
+msgid "pt"
+msgstr "pt"
+
+#: ../includes/widgets/widget-tag-cloud.php:94
+msgid "px"
+msgstr "px"
+
+#: ../includes/widgets/widget-tag-cloud.php:95
+msgid "em"
+msgstr "em"
+
+#: ../includes/widgets/widget-tag-cloud.php:96
+msgid "%"
+msgstr "%"
+
+#: ../includes/widgets/widget-tag-cloud.php:99
+msgid "Smallest text size (Default \"8\"):"
+msgstr "最小字号（默认“8”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:101
+msgid "Largest text size (Default \"22\"):"
+msgstr "最大字号（默认“22”）："
+
+#: ../includes/widgets/widget-tag-cloud.php:103
+msgid "Exclude tags (Use commas to separate IDs):"
+msgstr "排除标签（使用英文逗号隔开多个ID）："
+
+#: ../includes/widgets/widget-text-html.php:8
+msgid "Display custom text, support html and shortcode."
+msgstr "显示自定义文本，支持HTML代码和简码"
+
+#: ../includes/widgets/widget-text-html.php:10
+msgid " - Text or Html"
+msgstr " - 文本或HTML"
+
+#: ../includes/widgets/widget-text-html.php:52
+msgid "Text"
+msgstr "文本"
+
+#: ../includes/widgets/widget-text-html.php:67
+msgid "Text , Shortcodes or Html code : "
+msgstr "文本、简码 或 HTML 代码："
+
+#: ../panel/custom-slider.php:7
+msgid "Custom Sliders"
+msgstr "自定义幻灯"
+
+#: ../panel/custom-slider.php:8 ../panel/mpanel-ui.php:37
+#: ../panel/mpanel-ui.php:672 ../panel/mpanel-ui.php:676
+msgid "Slider"
+msgstr "幻灯设置"
+
+#: ../panel/custom-slider.php:9
+msgid "Add New Slider"
+msgstr "添加新幻灯"
+
+#: ../panel/custom-slider.php:33
+msgid "Slides"
+msgstr "幻灯"
+
+#: ../panel/custom-slider.php:83 ../panel/custom-slider.php:107
+msgid "Slide Title :"
+msgstr "幻灯标题："
+
+#: ../panel/custom-slider.php:83 ../panel/custom-slider.php:108
+msgid "Slide Link :"
+msgstr "幻灯链接："
+
+#: ../panel/custom-slider.php:83 ../panel/custom-slider.php:109
+msgid "Slide Caption :"
+msgstr "幻灯说明："
+
+#: ../panel/custom-slider.php:83 ../panel/custom-slider.php:111
+#: ../panel/mpanel-functions.php:333
+msgid "Delete"
+msgstr "删除"
+
+#: ../panel/custom-slider.php:96
+msgid "Add New Slide"
+msgstr "添加新幻灯"
+
+#: ../panel/custom-slider.php:116
+msgid "Use the button above to add Slides !"
+msgstr "点击上面的按钮添加幻灯！"
+
+#: ../panel/custom-slider.php:143 ../panel/mpanel-ui.php:718
+msgid "Title"
+msgstr "标题"
+
+#: ../panel/custom-slider.php:144
+msgid "Number of Slides"
+msgstr "幻灯数量"
+
+#: ../panel/custom-slider.php:145
+msgid "Date"
+msgstr "日期"
+
+#: ../panel/mpanel-functions.php:82
+msgid "Use this image"
+msgstr "使用这张图片"
+
+#: ../panel/mpanel-functions.php:182
+msgid " Settings"
+msgstr " 设置"
+
+#: ../panel/mpanel-functions.php:182
+msgid "Settings"
+msgstr " 设置"
+
+#: ../panel/mpanel-functions.php:183
+msgid "Documentation"
+msgstr "帮助文档"
+
+#: ../panel/mpanel-functions.php:273
+msgid "Choose from the most used tags"
+msgstr "从使用次数最多的标签中选择。"
+
+#: ../panel/mpanel-functions.php:329
+msgid "Upload"
+msgstr "上传"
+
+#: ../panel/mpanel-ui.php:18
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: ../panel/mpanel-ui.php:24
+msgid "Changmeng's Works"
+msgstr "倡萌的作品"
+
+#: ../panel/mpanel-ui.php:25
+msgid "Click here to send a message to Changmeng"
+msgstr "点此给倡萌发送信息"
+
+#: ../panel/mpanel-ui.php:25
+msgid "FeedBack"
+msgstr "反馈建议"
+
+#: ../panel/mpanel-ui.php:31 ../panel/mpanel-ui.php:49
+msgid "General"
+msgstr "常规设置"
+
+#: ../panel/mpanel-ui.php:32 ../panel/mpanel-ui.php:278
+msgid "Homepage"
+msgstr "首页设置"
+
+#: ../panel/mpanel-ui.php:33 ../panel/mpanel-ui.php:151
+msgid "Header"
+msgstr "头部设置"
+
+#: ../panel/mpanel-ui.php:34 ../panel/mpanel-ui.php:1201
+msgid "Archives"
+msgstr "存档设置"
+
+#: ../panel/mpanel-ui.php:35 ../panel/mpanel-ui.php:791
+msgid "Article"
+msgstr "文章设置"
+
+#: ../panel/mpanel-ui.php:36 ../panel/mpanel-ui.php:1087
+msgid "Sidebars"
+msgstr "边栏设置"
+
+#: ../panel/mpanel-ui.php:38 ../panel/mpanel-ui.php:916
+msgid "Banners"
+msgstr "广告设置"
+
+#: ../panel/mpanel-ui.php:39 ../panel/mpanel-ui.php:1339
+msgid "Styling"
+msgstr "样式设置"
+
+#: ../panel/mpanel-ui.php:40 ../panel/mpanel-ui.php:614
+#: ../panel/mpanel-ui.php:618
+msgid "Social Network"
+msgstr "社交网络"
+
+#: ../panel/mpanel-ui.php:41
+msgid "Advanced"
+msgstr "高级设置"
+
+#: ../panel/mpanel-ui.php:53
+msgid "Announcement"
+msgstr "公告"
+
+#: ../panel/mpanel-ui.php:56
+msgid "Homepage Announcement"
+msgstr "首页公告"
+
+#: ../panel/mpanel-ui.php:59
+msgid "Only show in the homepage, support for HTML code."
+msgstr "只在首页显示，支持Html代码。"
+
+#: ../panel/mpanel-ui.php:63
+msgid "User Center Announcement"
+msgstr "用户中心公告"
+
+#: ../panel/mpanel-ui.php:66
+msgid ""
+"Only show in the User Center Page Template, support for HTML code. Leave "
+"blank not show anything."
+msgstr "只在“用户中心页面”模板中调用，支持Html代码。留空则不显示。"
+
+#: ../panel/mpanel-ui.php:72
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../panel/mpanel-ui.php:75
+msgid "Custom Favicon"
+msgstr "自定义 Favicon 图标"
+
+#: ../panel/mpanel-ui.php:78
+msgid "Upload a icon (.ico), size 32x32 or 16x16"
+msgstr "请上传一个 .ico 格式的图标，大小为 32x32 或 16x16 像素。"
+
+#: ../panel/mpanel-ui.php:83 ../panel/mpanel-ui.php:86
+msgid "Custom Gravatar"
+msgstr "自定义 Gravatar 头像"
+
+#: ../panel/mpanel-ui.php:93
+msgid "Logo settings"
+msgstr "Logo 设置"
+
+#: ../panel/mpanel-ui.php:96
+msgid "Blog Logo"
+msgstr "博客 Logo"
+
+#: ../panel/mpanel-ui.php:99
+msgid ""
+"You can replace the logo from theme's images directory, or upload your blog "
+"logo here. The size of the logo is 160*24 px. Best to use a transparent png "
+"image."
+msgstr ""
+"您可以直接替换该主题的 images 目录下的logo，也可以在这里上传您的博客Logo，大"
+"小为 160*24 像素，最好为透明的 png 格式的图片。"
+
+#: ../panel/mpanel-ui.php:102
+msgid "Login page Logo"
+msgstr "登录界面 Logo"
+
+#: ../panel/mpanel-ui.php:105
+msgid "This logo will replace the logo of WP login page."
+msgstr "这个 Logo 将用来替换 WP 后台登录界面的 Logo。"
+
+#: ../panel/mpanel-ui.php:110
+msgid "Time format"
+msgstr "时间格式"
+
+#: ../panel/mpanel-ui.php:113
+msgid "Time format for blog posts"
+msgstr "文章的时间格式"
+
+#: ../panel/mpanel-ui.php:116
+msgid "Traditional"
+msgstr "传统格式"
+
+#: ../panel/mpanel-ui.php:117
+msgid "Time Ago Format"
+msgstr "“多久前”格式"
+
+#: ../panel/mpanel-ui.php:118
+msgid "Disable all"
+msgstr "不显示时间"
+
+#: ../panel/mpanel-ui.php:125
+msgid "Breadcrumbs Settings"
+msgstr "面包屑导航设置"
+
+#: ../panel/mpanel-ui.php:128
+msgid "Breadcrumbs"
+msgstr "开启面包屑导航"
+
+#: ../panel/mpanel-ui.php:135
+msgid "Header Code"
+msgstr "头部代码"
+
+#: ../panel/mpanel-ui.php:137
+msgid ""
+"The following code will add to the &lt;head&gt; tag. Useful if you need to "
+"add additional scripts such as CSS or JS."
+msgstr ""
+"下面的代码将添加到 &lt;head&gt; 标签中。你可以添加一些额外的 CSS 或 JS 代码。"
+
+#: ../panel/mpanel-ui.php:142
+msgid "Footer Code"
+msgstr "底部代码"
+
+#: ../panel/mpanel-ui.php:144
+msgid ""
+"The following code will add to the &lt;footer&gt; tag. You can add Copyright "
+"text or Analysis code."
+msgstr ""
+"下面的代码将添加到底部的 &lt;footer&gt; 标签中，你可以添加版权声明以及统计分"
+"析代码。"
+
+#: ../panel/mpanel-ui.php:157
+msgid "Hide WP Admin Bar"
+msgstr "隐藏 WP 管理工具条"
+
+#: ../panel/mpanel-ui.php:160
+msgid ""
+"If you have set the front-end user management menu, you can hide WordPress "
+"Admin Bar for all users."
+msgstr "如果你设置了前端用户管理菜单，你可以对所有用户隐藏WP自带的顶部工具条。"
+
+#: ../panel/mpanel-ui.php:163
+msgid "Left Top Nav"
+msgstr "左上方导航"
+
+#: ../panel/mpanel-ui.php:166
+msgid "Show Login Module"
+msgstr "显示登录模块"
+
+#: ../panel/mpanel-ui.php:170
+msgid "-- Custom Lost Password Url:"
+msgstr "-- 自定义找回密码链接"
+
+#: ../panel/mpanel-ui.php:173
+msgid ""
+"Fill in a custom lost password url (including http://), Leave blank to use "
+"WP default lost password url."
+msgstr ""
+"填入一个自定义的找回密码链接（含http://），留空将使用WP后台默认的找回密码链"
+"接。"
+
+#: ../panel/mpanel-ui.php:176
+msgid "-- Custom Register Url:"
+msgstr "-- 自定义注册链接"
+
+#: ../panel/mpanel-ui.php:179
+msgid ""
+"Please enable registration option in the general setting page, then fill in "
+"a custom registration url (including http://), Leave blank to use WP default "
+"registration url."
+msgstr ""
+"请先在 设置 - 常规，启用“任何人都可以注册”，然后填入一个自定义的注册链接（含"
+"http://），留空将使用WP后台默认的注册链接。"
+
+#: ../panel/mpanel-ui.php:182
+msgid "-- Show User Menu"
+msgstr "-- 显示用户菜单"
+
+#: ../panel/mpanel-ui.php:185
+msgid ""
+"If your site is not open user registration, you do not need to enable this "
+"menu."
+msgstr "如果你的网站没有开放用户注册，你不必开启这个用户菜单。"
+
+#: ../panel/mpanel-ui.php:188
+msgid "Show QQ Qun"
+msgstr "显示QQ群"
+
+#: ../panel/mpanel-ui.php:192
+msgid "-- Url:"
+msgstr "-- 链接："
+
+#: ../panel/mpanel-ui.php:196
+msgid "-- Title:"
+msgstr "-- 标题："
+
+#: ../panel/mpanel-ui.php:200
+msgid "Show QQ Chat"
+msgstr "显示QQ交谈"
+
+#: ../panel/mpanel-ui.php:204
+msgid "-- QQ Code:"
+msgstr "-- QQ代码："
+
+#: ../panel/mpanel-ui.php:208
+msgid "Show Sina Weibo"
+msgstr "显示新浪微博关注"
+
+#: ../panel/mpanel-ui.php:212 ../panel/mpanel-ui.php:233
+msgid "-- Uid:"
+msgstr "-- Uid："
+
+#: ../panel/mpanel-ui.php:216 ../panel/mpanel-ui.php:237
+msgid "-- Type:"
+msgstr "-- 样式："
+
+#: ../panel/mpanel-ui.php:220 ../panel/mpanel-ui.php:241
+msgid "Only button"
+msgstr "只显示按钮"
+
+#: ../panel/mpanel-ui.php:221 ../panel/mpanel-ui.php:242
+msgid "Button + number"
+msgstr "按钮 + 粉丝数"
+
+#: ../panel/mpanel-ui.php:225
+msgid "Show QQ Weibo"
+msgstr "显示腾讯微博关注"
+
+#: ../panel/mpanel-ui.php:229
+msgid "-- Name:"
+msgstr "-- 用户名："
+
+#: ../panel/mpanel-ui.php:248
+msgid "Custom Search"
+msgstr "自定义搜索"
+
+#: ../panel/mpanel-ui.php:251
+msgid "Enable Baidu Search"
+msgstr "启用百度站内搜索"
+
+#: ../panel/mpanel-ui.php:254
+msgid ""
+"If you have already applied to the baidu custom search, you can check this "
+"and complete the following settings."
+msgstr "如果您已经申请到了百度站内搜索，您可以启用它，然后完成下面的设置。"
+
+#: ../panel/mpanel-ui.php:257
+msgid "Search Domain"
+msgstr "搜索域名"
+
+#: ../panel/mpanel-ui.php:260
+msgid ""
+"Fill in your binding domain (Without http://), otherwise, please keep the "
+"default."
+msgstr "填入您绑定的搜索域名（不含 http://），否则请保留默认。"
+
+#: ../panel/mpanel-ui.php:263
+msgid "Search ID"
+msgstr "搜索引擎ID"
+
+#: ../panel/mpanel-ui.php:266
+msgid "Fill in your Custom Search ID."
+msgstr "填入您的搜索引擎ID"
+
+#: ../panel/mpanel-ui.php:269 ../panel/mpanel-ui.php:944
+#: ../panel/mpanel-ui.php:981 ../panel/mpanel-ui.php:1018
+#: ../panel/mpanel-ui.php:1055
+msgid "Open The Link In a new Tab"
+msgstr "在新标签中打开链接"
+
+#: ../panel/mpanel-ui.php:282
+msgid "Homepage Meta"
+msgstr "首页Meta"
+
+#: ../panel/mpanel-ui.php:285
+msgid "Homepage Keywords"
+msgstr "首页关键词"
+
+#: ../panel/mpanel-ui.php:290
+msgid "Homepage Description"
+msgstr "首页描述"
+
+#: ../panel/mpanel-ui.php:297
+msgid "Show Links"
+msgstr "显示友链"
+
+#: ../panel/mpanel-ui.php:300
+msgid "Show Links in Homepage Footer"
+msgstr "在首页底部显示友链"
+
+#: ../panel/mpanel-ui.php:303
+msgid "If checked, Please visit Appearance - Menus to set a Footer Link menu."
+msgstr "如果开启，请访问 “外观 > 菜单”设置“首页友链”菜单"
+
+#: ../panel/mpanel-ui.php:309 ../panel/mpanel-ui.php:312
+msgid "Homepage displays"
+msgstr "首页显示"
+
+#: ../panel/mpanel-ui.php:315
+msgid "Latest posts - Blog Layout"
+msgstr "博客布局 - 显示最新文章"
+
+#: ../panel/mpanel-ui.php:316
+msgid "CMS Layout - Using Home Builder"
+msgstr "CMS布局 - 使用首页生成器添加内容模块"
+
+#: ../panel/mpanel-ui.php:322
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: ../panel/mpanel-ui.php:325
+msgid "List Style"
+msgstr "列表样式"
+
+#: ../panel/mpanel-ui.php:328 ../panel/mpanel-ui.php:1227
+msgid "Small Thumb + Excerpt"
+msgstr "小缩略图+摘要"
+
+#: ../panel/mpanel-ui.php:329 ../panel/mpanel-ui.php:1244
+msgid "Big Thumb + Excerpt"
+msgstr "大缩略图+摘要"
+
+#: ../panel/mpanel-ui.php:330
+msgid "Small Title List"
+msgstr "简单标题列表"
+
+#: ../panel/mpanel-ui.php:333
+msgid "Ignore Sticky Posts"
+msgstr "忽略置顶文章"
+
+#: ../panel/mpanel-ui.php:335
+msgid ""
+"If home slider show sticky posts, I propose to ignore the sticky posts from "
+"latest posts here."
+msgstr ""
+"如果首页幻灯设置为显示“置顶文章”，建议你开启“忽略置顶文章”，以免重复显示。"
+
+#: ../panel/mpanel-ui.php:339
+msgid "Posts Per Page"
+msgstr "每页文章数"
+
+#: ../panel/mpanel-ui.php:341
+msgid "Default is 10."
+msgstr "默认为 10"
+
+#: ../panel/mpanel-ui.php:345
+msgid "Exclude Categories"
+msgstr "排除分类"
+
+#: ../panel/mpanel-ui.php:347
+msgid ""
+"Use minus sign (-) to exclude categories from Latest posts on homepage. "
+"Example: (-1,-4,-7) =  exclude Category 1,4,7."
+msgstr ""
+"使用减号（-）可以在首页最新文章中排除某些分类的文章。例如 （-1,-4,-7）表示排"
+"除 ID 为 1,4,7  的分类。"
+
+#: ../panel/mpanel-ui.php:351
+msgid "Exclude Posts"
+msgstr "排除文章"
+
+#: ../panel/mpanel-ui.php:353
+msgid ""
+"Use minus sign (-) to exclude posts from Latest posts on homepage. Example: "
+"(-2,-5,-8) =  exclude post 2,5,8."
+msgstr ""
+"使用减号（-）可以在首页最新文章中排除某些文章。例如 （-2,-5,-8）表示排除 ID "
+"为 2,5,8  的文章。"
+
+#: ../panel/mpanel-ui.php:358 ../panel/mpanel-ui.php:1212
+msgid ""
+"Important: The value of \"Posts Per Page\" ​​can not be less than the value of "
+"\"Blog pages show at most\", which is set in [Settins > Reading]. The "
+"current value of \"Blog pages show at most\" is "
+msgstr ""
+"重要提示：“每页文章数”的值不能小于【设置 > 阅读】中“博客页面至多显示”的值！当"
+"前“博客页面至多显示”的值为 "
+
+#: ../panel/mpanel-ui.php:364 ../panel/mpanel-ui.php:367
+msgid "First News Excerpt Length"
+msgstr "第一篇文章的摘要字数"
+
+#: ../panel/mpanel-ui.php:374
+msgid "Home Builder"
+msgstr "首页生成器"
+
+#: ../panel/mpanel-ui.php:391
+msgid "News Box"
+msgstr "内容模块"
+
+#: ../panel/mpanel-ui.php:392
+msgid "Scrolling Box"
+msgstr "滚动模块"
+
+#: ../panel/mpanel-ui.php:393 ../panel/mpanel-ui.php:512
+msgid "ADS"
+msgstr "广告"
+
+#: ../panel/mpanel-ui.php:394
+msgid "News in picrure"
+msgstr "图片模块"
+
+#: ../panel/mpanel-ui.php:395 ../panel/mpanel-ui.php:458
+msgid "Recent/Random/Hot Posts"
+msgstr "最新/随机/热门文章"
+
+#: ../panel/mpanel-ui.php:398
+msgid "[-] Collapse All"
+msgstr "[-] 全部收缩"
+
+#: ../panel/mpanel-ui.php:399
+msgid "[+] Expand All"
+msgstr "[+] 全部展开"
+
+#: ../panel/mpanel-ui.php:412
+msgid "News Box :"
+msgstr "内容模块："
+
+#: ../panel/mpanel-ui.php:417 ../panel/mpanel-ui.php:500
+#: ../panel/mpanel-ui.php:524
+msgid "Box Category :"
+msgstr "模块分类："
+
+#: ../panel/mpanel-ui.php:424
+msgid "Posts Order :"
+msgstr "文章顺序："
+
+#: ../panel/mpanel-ui.php:432 ../panel/mpanel-ui.php:482
+#: ../panel/mpanel-ui.php:509 ../panel/mpanel-ui.php:582
+msgid "Number of posts to show :"
+msgstr "文章数量"
+
+#: ../panel/mpanel-ui.php:435
+msgid "Display Thumb:"
+msgstr "显示缩略图："
+
+#: ../panel/mpanel-ui.php:439 ../panel/mpanel-ui.php:534
+msgid "Box Style :"
+msgstr "模块样式："
+
+#: ../panel/mpanel-ui.php:463
+msgid "Select Custom Post Type :"
+msgstr "选择文章类型"
+
+#: ../panel/mpanel-ui.php:471
+msgid "Exclude This Categories :"
+msgstr "排除这些分类："
+
+#: ../panel/mpanel-ui.php:479 ../panel/mpanel-ui.php:507
+#: ../panel/mpanel-ui.php:531
+msgid "Box Title :"
+msgstr "模块标题："
+
+#: ../panel/mpanel-ui.php:484
+msgid "Order:"
+msgstr "文章排序："
+
+#: ../panel/mpanel-ui.php:486
+msgid "Latest"
+msgstr "最新文章"
+
+#: ../panel/mpanel-ui.php:488
+msgid "Most Comment"
+msgstr "评论最多"
+
+#: ../panel/mpanel-ui.php:489
+msgid "Most Viewed"
+msgstr "浏览最多"
+
+#: ../panel/mpanel-ui.php:492
+msgid "Days limit of popular :"
+msgstr "显示多少天内的热门文章："
+
+#: ../panel/mpanel-ui.php:495
+msgid "Scrolling Box :"
+msgstr "滚动模块："
+
+#: ../panel/mpanel-ui.php:519
+msgid "News In Picture"
+msgstr "图片模块"
+
+#: ../panel/mpanel-ui.php:548
+msgid "Divider"
+msgstr "分隔线"
+
+#: ../panel/mpanel-ui.php:553
+msgid "Height :"
+msgstr "高度："
+
+#: ../panel/mpanel-ui.php:571
+msgid "Categories Tabs Box"
+msgstr "分类标签模块（Tabs）"
+
+#: ../panel/mpanel-ui.php:574
+msgid "Show Category Tabs Box"
+msgstr "显示 分类标签模块（Tabs）"
+
+#: ../panel/mpanel-ui.php:578
+msgid "Display Thumb"
+msgstr "显示缩略图"
+
+#: ../panel/mpanel-ui.php:600
+msgid "Choose Categories :"
+msgstr "选择分类："
+
+#: ../panel/mpanel-ui.php:621
+msgid "Display Social Icon"
+msgstr "显示社交图标"
+
+#: ../panel/mpanel-ui.php:625
+msgid "Don't forget http:// before link (except QQ and QQ Email List )."
+msgstr "别忘了在链接前添加 http:// （QQ 和 QQ邮箱订阅列表 除外）"
+
+#: ../panel/mpanel-ui.php:630
+msgid "e.g. http://weibo.com/hcm602"
+msgstr "例如 http://weibo.com/hcm602"
+
+#: ../panel/mpanel-ui.php:635
+msgid "e.g. http://t.qq.com/hcm602"
+msgstr "例如 http://t.qq.com/hcm602"
+
+#: ../panel/mpanel-ui.php:640
+msgid "e.g. 745722006"
+msgstr "例如 745722006"
+
+#: ../panel/mpanel-ui.php:645
+msgid "e.g. https://plus.google.com/105276589845964937994"
+msgstr "例如 https://plus.google.com/105276589845964937994"
+
+#: ../panel/mpanel-ui.php:650
+msgid "e.g. https://twitter.com/hcm602"
+msgstr "例如 https://twitter.com/hcm602"
+
+#: ../panel/mpanel-ui.php:653
+msgid ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/list-qq-com.html\" target="
+"\"_blank\" title=\"Setting method of QQ Email List\">QQ Email List</a>"
+msgstr ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/list-qq-com.html\" target="
+"\"_blank\" title=\"QQ邮箱订阅列表 的设置方法 \">QQ邮箱订阅列表</a>"
+
+#: ../panel/mpanel-ui.php:655
+msgid "e.g. 04d10e789e984f55c7eddb77e9ce652b631cbc84842b16fa"
+msgstr "例如 04d10e789e984f55c7eddb77e9ce652b631cbc84842b16fa"
+
+#: ../panel/mpanel-ui.php:658
+msgid ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/qq-email-me.html\" target="
+"\"_blank\" title=\"Setting method of QQ Email Email-me\">QQ Email Email-me</"
+"a>"
+msgstr ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/qq-email-me.html\" target="
+"\"_blank\" title=\"QQ邮箱“邮我”的设置方法\">QQ邮箱“邮我”</a>"
+
+#: ../panel/mpanel-ui.php:660
+msgid ""
+"e.g. http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0Lm9s72Qprmg-qGh-"
+"rO-vQ"
+msgstr ""
+"例如 http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0Lm9s72Qprmg-qGh-"
+"rO-vQ"
+
+#: ../panel/mpanel-ui.php:663
+msgid "Custom Feed URL"
+msgstr "自定义 Feed URL"
+
+#: ../panel/mpanel-ui.php:665
+msgid "e.g. http://feed.feedsky.com/cmhello"
+msgstr "例如 http://feed.feedsky.com/cmhello"
+
+#: ../panel/mpanel-ui.php:679 ../panel/mpanel-ui.php:923
+#: ../panel/mpanel-ui.php:960 ../panel/mpanel-ui.php:997
+#: ../panel/mpanel-ui.php:1034
+msgid "Enable"
+msgstr "启用"
+
+#: ../panel/mpanel-ui.php:683
+msgid "Images_number"
+msgstr "图片数量"
+
+#: ../panel/mpanel-ui.php:686
+msgid ""
+"The number of slides to be shown. Slides will be sized down if carousel "
+"becomes smaller than the original size."
+msgstr ""
+"每次滚动所显示的图片数量。如果幻灯的高度和宽度小于默认的，那么，幻灯的图片也"
+"会按比例缩小。"
+
+#: ../panel/mpanel-ui.php:693
+msgid "Slideshow Mode"
+msgstr "切换模式"
+
+#: ../panel/mpanel-ui.php:702
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: ../panel/mpanel-ui.php:706
+msgid "AutoHover"
+msgstr "鼠标悬停"
+
+#: ../panel/mpanel-ui.php:710
+msgid "Controls"
+msgstr "控制按钮"
+
+#: ../panel/mpanel-ui.php:714
+msgid "Pager"
+msgstr "页码"
+
+#: ../panel/mpanel-ui.php:722
+msgid "Slideshow Speed"
+msgstr "播放速度"
+
+#: ../panel/mpanel-ui.php:731
+msgid "Query Settings"
+msgstr "调用设置"
+
+#: ../panel/mpanel-ui.php:734
+msgid "Number Of Posts To Show"
+msgstr "文章数量"
+
+#: ../panel/mpanel-ui.php:738 ../panel/mpanel-ui.php:905
+msgid "Query Type"
+msgstr "调用类型"
+
+#: ../panel/mpanel-ui.php:740 ../panel/mpanel-ui.php:761
+#: ../panel/mpanel-ui.php:907
+msgid "Category"
+msgstr "分类"
+
+#: ../panel/mpanel-ui.php:741 ../panel/mpanel-ui.php:908
+msgid "Tag"
+msgstr "标签"
+
+#: ../panel/mpanel-ui.php:742
+msgid "Sticky Posts"
+msgstr "置顶文章"
+
+#: ../panel/mpanel-ui.php:743
+msgid "Selctive Posts"
+msgstr "指定文章"
+
+#: ../panel/mpanel-ui.php:744
+msgid "Selctive pages"
+msgstr "指定页面"
+
+#: ../panel/mpanel-ui.php:745 ../panel/mpanel-ui.php:781
+msgid "Custom Slider"
+msgstr "自定义幻灯"
+
+#: ../panel/mpanel-ui.php:749
+msgid "Enter a tag name, or names seprated by comma. "
+msgstr "输入标签名，多个标签使用英文逗号隔开。"
+
+#: ../panel/mpanel-ui.php:767
+msgid ""
+"Choose categories yuo want to show . Use [Ctrl] key to choose multiple "
+"categories. "
+msgstr "选择要显示的分类。可以按住[ Ctrl ] ，然后选择多个分类。"
+
+#: ../panel/mpanel-ui.php:771
+msgid "Selctive Posts IDs"
+msgstr "选择文章 ID"
+
+#: ../panel/mpanel-ui.php:772
+msgid "Enter a post ID, or IDs seprated by comma. "
+msgstr "输入文章 ID，多个 ID 使用英文逗号隔开。"
+
+#: ../panel/mpanel-ui.php:776
+msgid "Selctive Pages IDs"
+msgstr "选择页面 ID"
+
+#: ../panel/mpanel-ui.php:777
+msgid "Enter a page ID, or IDs seprated by comma. "
+msgstr "输入页面 ID，多个 ID 使用英文逗号隔开。"
+
+#: ../panel/mpanel-ui.php:782
+msgid "Choose your custom slide"
+msgstr "选择你的自定义幻灯"
+
+#: ../panel/mpanel-ui.php:795
+msgid "Article Elements"
+msgstr "文章元素"
+
+#: ../panel/mpanel-ui.php:798
+msgid "Post Author Box"
+msgstr "作者模块"
+
+#: ../panel/mpanel-ui.php:803
+msgid "Next/Prev Article"
+msgstr "上一篇/下一篇 文章"
+
+#: ../panel/mpanel-ui.php:810
+msgid "Post Meta Settings"
+msgstr "文章 Meta 设置"
+
+#: ../panel/mpanel-ui.php:813
+msgid "Post Meta :"
+msgstr "显示文章 Meta："
+
+#: ../panel/mpanel-ui.php:817 ../panel/mpanel-ui.php:1266
+msgid "Author Meta"
+msgstr "-- 作者"
+
+#: ../panel/mpanel-ui.php:821 ../panel/mpanel-ui.php:1271
+msgid "Date Meta"
+msgstr "-- 日期"
+
+#: ../panel/mpanel-ui.php:825 ../panel/mpanel-ui.php:1276
+msgid "Views Meta"
+msgstr "-- 浏览次数"
+
+#: ../panel/mpanel-ui.php:829
+msgid "Categories Meta"
+msgstr "-- 分类"
+
+#: ../panel/mpanel-ui.php:833 ../panel/mpanel-ui.php:1281
+msgid "Comments Meta"
+msgstr "-- 评论"
+
+#: ../panel/mpanel-ui.php:837 ../panel/mpanel-ui.php:1286
+msgid "Tags Meta"
+msgstr "-- 标签"
+
+#: ../panel/mpanel-ui.php:841 ../panel/mpanel-ui.php:844
+msgid "Post Note"
+msgstr "文章声明"
+
+#: ../panel/mpanel-ui.php:847
+msgid "Displayed at the bottom of the article, blank will not be displayed."
+msgstr "显示在文章的底部，留空将不显示。"
+
+#: ../panel/mpanel-ui.php:853
+msgid "Share Post Settings"
+msgstr "文章分享设置"
+
+#: ../panel/mpanel-ui.php:856
+msgid "Share Post Buttons"
+msgstr "显示文章分享按钮"
+
+#: ../panel/mpanel-ui.php:859
+msgid "Use baidu share."
+msgstr "使用的是百度分享功能"
+
+#: ../panel/mpanel-ui.php:862
+msgid "-- Button Style"
+msgstr "-- 按钮样式"
+
+#: ../panel/mpanel-ui.php:871
+msgid "-- Button Size"
+msgstr "-- 按钮大小"
+
+#: ../panel/mpanel-ui.php:880
+msgid "-- Image Share"
+msgstr "-- 开启图片分享"
+
+#: ../panel/mpanel-ui.php:883 ../panel/mpanel-ui.php:889
+msgid "Using throughout the site."
+msgstr "在整个网站中使用"
+
+#: ../panel/mpanel-ui.php:886
+msgid "-- Select Text Share"
+msgstr "-- 开启文本选取分享"
+
+#: ../panel/mpanel-ui.php:894
+msgid "Related Posts Settings"
+msgstr "相关文章设置"
+
+#: ../panel/mpanel-ui.php:897
+msgid "Related Posts"
+msgstr "显示相关文章"
+
+#: ../panel/mpanel-ui.php:901
+msgid "Number of posts to show"
+msgstr "文章数量"
+
+#: ../panel/mpanel-ui.php:909
+msgid "Author"
+msgstr "作者"
+
+#: ../panel/mpanel-ui.php:920
+msgid "Top Banner Area"
+msgstr "顶部广告位"
+
+#: ../panel/mpanel-ui.php:931 ../panel/mpanel-ui.php:968
+#: ../panel/mpanel-ui.php:1005 ../panel/mpanel-ui.php:1042
+msgid "You can upload a picture, or simply fill out the image URL."
+msgstr "您可以直接上传一张图片，或者填写完整的图片地址"
+
+#: ../panel/mpanel-ui.php:934 ../panel/mpanel-ui.php:971
+#: ../panel/mpanel-ui.php:1008 ../panel/mpanel-ui.php:1045
+msgid "Link"
+msgstr "链接"
+
+#: ../panel/mpanel-ui.php:939 ../panel/mpanel-ui.php:976
+#: ../panel/mpanel-ui.php:1013 ../panel/mpanel-ui.php:1050
+msgid "Alternative Text For The image"
+msgstr "图片的 alt 描述文字"
+
+#: ../panel/mpanel-ui.php:949 ../panel/mpanel-ui.php:986
+#: ../panel/mpanel-ui.php:1023 ../panel/mpanel-ui.php:1060
+msgid "Adsense Code"
+msgstr "广告代码"
+
+#: ../panel/mpanel-ui.php:952 ../panel/mpanel-ui.php:989
+#: ../panel/mpanel-ui.php:1026 ../panel/mpanel-ui.php:1063
+msgid ""
+"If you want to add more than one banner ad, clear image ads settings above, "
+"and then add your adsense code here."
+msgstr ""
+"如果您想添加一个以上的图片广告，请清除上面的图片设置，然后在这里添加您的广告"
+"代码。"
+
+#: ../panel/mpanel-ui.php:957
+msgid "Right of Home Slider"
+msgstr "幻灯右边广告位"
+
+#: ../panel/mpanel-ui.php:994
+msgid "Above Article Banner Area"
+msgstr "文章顶部广告位"
+
+#: ../panel/mpanel-ui.php:1031
+msgid "Below Article Banner Area"
+msgstr "文章底部广告位"
+
+#: ../panel/mpanel-ui.php:1068
+msgid "Shortcode ADS"
+msgstr "简码广告"
+
+#: ../panel/mpanel-ui.php:1071
+msgid "[ads1] Shortcode Banner"
+msgstr "[ads1] 简码广告"
+
+#: ../panel/mpanel-ui.php:1074
+msgid "Add your adsense code here, and then use shortcode [ads1] to call it."
+msgstr "在这里添加您的广告代码，然后使用简码 [ads1] 来调用它。"
+
+#: ../panel/mpanel-ui.php:1077
+msgid "[ads2] Shortcode Banner"
+msgstr "[ads2] 简码广告"
+
+#: ../panel/mpanel-ui.php:1080
+msgid "Add your adsense code here, and then use shortcode [ads2] to call it."
+msgstr "在这里添加您的广告代码，然后使用简码 [ads2] 来调用它。"
+
+#: ../panel/mpanel-ui.php:1091
+msgid "Sidebar Rolling"
+msgstr "侧边栏滚动"
+
+#: ../panel/mpanel-ui.php:1094
+msgid "Right Sidebar Rolling"
+msgstr "右侧边栏滚动"
+
+#: ../panel/mpanel-ui.php:1097
+msgid "When enabled, the sidebar widget will fixed when the page scroll down."
+msgstr "启用后，侧边栏的某些小工具可以随着页面的滚动而悬浮固定显示。"
+
+#: ../panel/mpanel-ui.php:1100
+msgid "-- Home Rolling Widget One"
+msgstr "-- 首页滚动小工具一"
+
+#: ../panel/mpanel-ui.php:1103
+msgid ""
+"Enter the widgets position(According to the display order).If you want to "
+"just roll a widget, please enter the same number in both of widget one and "
+"widget two, if you want to roll the last widget, please enter 0 in both of "
+"widget one and widget two. Following is the same."
+msgstr ""
+"输入小工具的位置对应的数字（根据出现的顺序）。如果您只想滚动一个小工具，请"
+"在“小工具一”和“小工具二”填写同一个数字；如果你希望只滚动最后一个小工具，请"
+"在“小工具一”和“小工具二”中都填入数字 0，下同。"
+
+#: ../panel/mpanel-ui.php:1106
+msgid "-- Home Rolling Widget Two"
+msgstr "-- 首页滚动小工具二"
+
+#: ../panel/mpanel-ui.php:1110
+msgid "-- Post Rolling Widget One"
+msgstr "-- 文章滚动小工具一"
+
+#: ../panel/mpanel-ui.php:1115
+msgid "-- Post Rolling Widget Two"
+msgstr "-- 文章滚动小工具二"
+
+#: ../panel/mpanel-ui.php:1119
+msgid "-- Page Rolling Widget One"
+msgstr "-- 页面滚动小工具一"
+
+#: ../panel/mpanel-ui.php:1124
+msgid "-- Page Rolling Widget Two"
+msgstr "-- 页面滚动小工具二"
+
+#: ../panel/mpanel-ui.php:1128
+msgid ""
+"Note: In addition to the home page, posts and pages in accordance with a "
+"fixed set above, other pages are only fixed last widget."
+msgstr ""
+"注：除了首页、文章和页面的侧边栏按照上面的设置滚动小工具外，其余页面都默认滚"
+"动最后一个小工具。"
+
+#: ../panel/mpanel-ui.php:1131
+msgid "Hide Sidebar"
+msgstr "隐藏侧边栏"
+
+#: ../panel/mpanel-ui.php:1134
+msgid "Hide Sidebar in Mobile Client"
+msgstr "移动客户端（手机等）访问时隐藏侧边栏"
+
+#: ../panel/mpanel-ui.php:1137
+msgid ""
+"When the device is smaller than the width of 980px, the sidebar will not be "
+"displayed."
+msgstr "当访问设备宽度小于980px时，不显示侧边栏。"
+
+#: ../panel/mpanel-ui.php:1142
+msgid "Add Sidebar"
+msgstr "添加侧边栏"
+
+#: ../panel/mpanel-ui.php:1144
+msgid "Sidebar Name"
+msgstr "侧边栏的名称"
+
+#: ../panel/mpanel-ui.php:1146
+msgid "Add"
+msgstr "添加"
+
+#: ../panel/mpanel-ui.php:1161
+msgid "Custom Sidebars"
+msgstr "自定义侧边栏"
+
+#: ../panel/mpanel-ui.php:1170
+msgid "Home Sidebar"
+msgstr "首页侧边栏"
+
+#: ../panel/mpanel-ui.php:1175
+msgid "Single Page Sidebar"
+msgstr "页面侧边栏"
+
+#: ../panel/mpanel-ui.php:1180
+msgid "Single Article Sidebar"
+msgstr "文章侧边栏"
+
+#: ../panel/mpanel-ui.php:1185
+msgid "Archives Sidebar"
+msgstr "存档页面的侧边栏"
+
+#: ../panel/mpanel-ui.php:1191
+msgid "<em><small>Category : </small></em>"
+msgstr "<em><small>分类：</small></em>"
+
+#: ../panel/mpanel-ui.php:1205
+msgid "Archive Style Settings"
+msgstr "存档样式设置"
+
+#: ../panel/mpanel-ui.php:1207
+msgid "All Categries of your website:"
+msgstr "你网站的所有分类（ID）："
+
+#: ../panel/mpanel-ui.php:1211
+msgid ""
+"The default archive style is <strong>[Simple Title List]</strong>, You can "
+"enter the Category IDs to custom the archive style of them. Multiple IDs "
+"separated by commas.e.g. 3,5,7"
+msgstr ""
+"默认的存档页面样式为<strong>[简单的标题列表]</strong>，你可以将分类ID填写到下"
+"面的其他样式中，以此自定义它们的存档样式。多个ID，请用英文逗号“,”隔开，例如："
+"3,5,7"
+
+#: ../panel/mpanel-ui.php:1216
+msgid "Default Posts Per Page"
+msgstr "默认每页文章数"
+
+#: ../panel/mpanel-ui.php:1219
+msgid "Posts Per Page of [Simple Title List] and other archives pages"
+msgstr "[简单标题列表] 和 其他存档页面 的每页文章数"
+
+#: ../panel/mpanel-ui.php:1222
+msgid "Excerpt Length"
+msgstr "摘要字数"
+
+#: ../panel/mpanel-ui.php:1232
+msgid "-- Thumb Float Left"
+msgstr "-- 缩略图左浮动"
+
+#: ../panel/mpanel-ui.php:1235
+msgid ""
+"The thumbnail is right-floating default , you can choose left-floating if "
+"you want."
+msgstr "缩略图默认是右浮动的，如果你需要，可以选择左浮动。"
+
+#: ../panel/mpanel-ui.php:1238 ../panel/mpanel-ui.php:1249
+msgid "-- Posts Per Page"
+msgstr "-- 每页文章数"
+
+#: ../panel/mpanel-ui.php:1241
+msgid "Posts Per Page of [Small Thumb + Excerpt]"
+msgstr "[小缩略图+摘要] 每页文章数"
+
+#: ../panel/mpanel-ui.php:1252
+msgid "Posts Per Page of [Big Thumb + Excerpt]"
+msgstr "[大缩略图+摘要] 每页文章数"
+
+#: ../panel/mpanel-ui.php:1257
+msgid "Archive Meta Settings"
+msgstr "存档 Meta 设置"
+
+#: ../panel/mpanel-ui.php:1260
+msgid "Archive Meta"
+msgstr "显示存档 Meta"
+
+#: ../panel/mpanel-ui.php:1263
+msgid ""
+"Effective only for [Big Thumb + Excerpt] and [Small Thumb + Excerpt] "
+"Archives."
+msgstr "只对 [大缩略图+摘要] 和 [小缩略图+摘要] 这两种存的样式生效。"
+
+#: ../panel/mpanel-ui.php:1293
+msgid "Category Page Settings"
+msgstr "分类页面设置"
+
+#: ../panel/mpanel-ui.php:1296
+msgid "Category Description"
+msgstr "分类描述"
+
+#: ../panel/mpanel-ui.php:1300 ../panel/mpanel-ui.php:1309
+#: ../panel/mpanel-ui.php:1322
+msgid "RSS Icon"
+msgstr "RSS 图标"
+
+#: ../panel/mpanel-ui.php:1306
+msgid "Tag Page Settings"
+msgstr "标签页面设置"
+
+#: ../panel/mpanel-ui.php:1315
+msgid "Author Page Settings"
+msgstr "作者页面设置"
+
+#: ../panel/mpanel-ui.php:1318
+msgid "Author Bio"
+msgstr "作者简介"
+
+#: ../panel/mpanel-ui.php:1328
+msgid "Search Page Settings"
+msgstr "搜索页面设置"
+
+#: ../panel/mpanel-ui.php:1331
+msgid "Exclude Pages in results"
+msgstr "在结果中的排除页面"
+
+#: ../panel/mpanel-ui.php:1343 ../panel/mpanel-ui.php:1346
+msgid "Theme Color"
+msgstr "主题颜色"
+
+#: ../panel/mpanel-ui.php:1349
+msgid "Black(default)"
+msgstr "黑色（默认）"
+
+#: ../panel/mpanel-ui.php:1350
+msgid "Dark gray"
+msgstr "深灰色"
+
+#: ../panel/mpanel-ui.php:1351
+msgid "Brown"
+msgstr "咖啡色"
+
+#: ../panel/mpanel-ui.php:1352
+msgid "Blue"
+msgstr "蓝色"
+
+#: ../panel/mpanel-ui.php:1353
+msgid "Purple"
+msgstr "紫色"
+
+#: ../panel/mpanel-ui.php:1359
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: ../panel/mpanel-ui.php:1362
+msgid "Enable Custom CSS"
+msgstr "启用自定义CSS"
+
+#: ../panel/mpanel-ui.php:1367
+msgid "Global CSS :"
+msgstr "全局 CSS："
+
+#: ../panel/mpanel-ui.php:1374
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: ../panel/mpanel-ui.php:1378
+msgid "Optional Features"
+msgstr "可选功能"
+
+#: ../panel/mpanel-ui.php:1386
+msgid "Show IDs In The Manage Column"
+msgstr "在管理列表中显示 ID"
+
+#: ../panel/mpanel-ui.php:1389
+msgid ""
+"Show ids in  the manage column of posts, pages, comments, attachments, users "
+"and categories."
+msgstr "在后台文章、页面、评论、附件、用户 和 分类 的管理界面显示 ID。"
+
+#: ../panel/mpanel-ui.php:1392
+msgid "Cache Avatar"
+msgstr "缓存头像"
+
+#: ../panel/mpanel-ui.php:1395 ../panel/mpanel-ui.php:1398
+msgid ""
+"Important: To cache avatar, you must create a new folder named [avatar] in "
+"the site's root directory, add a default avatar named [default.jpg] and make "
+"sure it is writable (0755)."
+msgstr ""
+"重要提示：开启缓存头像前，请先在网站根目录创建名为“avatar”的文件夹，在里面添"
+"加一个名为“default.jpg”的默认头像，并且确保这个文件夹是可写的（0755）"
+
+#: ../panel/mpanel-ui.php:1402
+msgid "Lightbox"
+msgstr "启用图片灯箱"
+
+#: ../panel/mpanel-ui.php:1405
+msgid "Lightbox allows users to view larger versions of images."
+msgstr "开启图片灯箱，可以让访客在文章中点击查看原始尺寸的大图片。"
+
+#: ../panel/mpanel-ui.php:1408
+msgid "LazyLoad"
+msgstr "延迟加载图片"
+
+#: ../panel/mpanel-ui.php:1411
+msgid ""
+"Using LazyLoad on long web pages containing many large images makes the page "
+"load faster."
+msgstr ""
+"启用延迟加载图片，只有滚动到图片可视区时，才加载图片，这样可以加快网页的打开"
+"速度。"
+
+#: ../panel/mpanel-ui.php:1414
+msgid "jQuery CDN"
+msgstr "jQuery CDN"
+
+#: ../panel/mpanel-ui.php:1417
+msgid "WordPress(default)"
+msgstr "WordPress自带（默认）"
+
+#: ../panel/mpanel-ui.php:1418
+msgid "Google"
+msgstr "谷歌"
+
+#: ../panel/mpanel-ui.php:1419
+msgid "Mrosoft"
+msgstr "微软"
+
+#: ../panel/mpanel-ui.php:1420
+msgid "Baidu"
+msgstr "百度"
+
+#: ../panel/mpanel-ui.php:1421
+msgid "SAE"
+msgstr "新浪"
+
+#: ../panel/mpanel-ui.php:1422
+msgid "Qiniu"
+msgstr "七牛"
+
+#: ../panel/mpanel-ui.php:1423
+msgid "Upyun"
+msgstr "又拍云"
+
+#: ../panel/mpanel-ui.php:1424
+msgid "jQuery Official"
+msgstr "jQuery 官方"
+
+#: ../panel/mpanel-ui.php:1426
+msgid "Choose a jquery CDN service."
+msgstr "选择一种 jQuery 库 CDN 加速服务"
+
+#: ../panel/mpanel-ui.php:1431
+msgid "Comment Settings"
+msgstr "评论设置"
+
+#: ../panel/mpanel-ui.php:1434
+msgid "Enable Smilies"
+msgstr "启用表情"
+
+#: ../panel/mpanel-ui.php:1439
+msgid "Comment Mail Notify"
+msgstr "评论回复邮件通知"
+
+#: ../panel/mpanel-ui.php:1444
+msgid "Anti Spam"
+msgstr "过滤垃圾评论"
+
+#: ../panel/mpanel-ui.php:1447
+msgid "Check this can prevent most of the spam comments"
+msgstr "选中该项可以阻止大多数的垃圾评论"
+
+#: ../panel/mpanel-ui.php:1450
+msgid "Comment must contain Chinese"
+msgstr "评论必须包含中文"
+
+#: ../panel/mpanel-ui.php:1453
+msgid ""
+"If your site visitors are almost all Chinese people, you can check this "
+"option."
+msgstr "如果您网站的访问几乎都是中国人，你可以考虑选中该项。"
+
+#: ../panel/mpanel-ui.php:1471
+msgid "Custom Email From"
+msgstr "自定义WP邮件发送信息"
+
+#: ../panel/mpanel-ui.php:1474
+msgid "Email From Name"
+msgstr "发件人名称"
+
+#: ../panel/mpanel-ui.php:1477
+msgid "If left blank, the default is Website Name"
+msgstr "如果留空，默认使用网站名称"
+
+#: ../panel/mpanel-ui.php:1480
+msgid "From Email Address"
+msgstr "发件人邮箱"
+
+#: ../panel/mpanel-ui.php:1483
+msgid "If left blank, the default is Admin's Email"
+msgstr "如果留空，默认使用管理员的邮箱"
+
+#: ../panel/mpanel-ui.php:1486
+msgid "Custom Random Thumbnails"
+msgstr "自定义随机缩略图"
+
+#: ../panel/mpanel-ui.php:1489
+msgid "Random Thumbnails Max Number"
+msgstr "随机缩略图的最大数量"
+
+#: ../panel/mpanel-ui.php:1492
+msgid ""
+"Add some digital incremental jpg images to current theme's \"images/pic\" "
+"directory, and then enter the max number here.  Default is 5."
+msgstr ""
+"添加一些以数字递增命名的 JPG 图片到当前主题的 images/pic 目录，然后在这里填入"
+"图片的最大数目。默认为 5 个。"
+
+#: ../panel/mpanel-ui.php:1497
+msgid "Image Resizing"
+msgstr "截图设置"
+
+#: ../panel/mpanel-ui.php:1499
+msgid ""
+"Current theme uses <a href=\"http://www.cmhello.com/timthumb.html\" target="
+"\"_blank\">TimThumb</a> to generate thumbnails.Please make sure current "
+"theme directory writable (755) and add your gallery domains to timthumb-"
+"config.php."
+msgstr ""
+"该主题使用 <a href=\"http://www.cmhello.com/timthumb.html\" target=\"_blank"
+"\">TimThumb</a> 来生成缩略图，请确保当前主题的根目录可写（755权限）。如果你使"
+"用的是外链图库，请在当前主题根目录下的 timthumb-config.php 添加图库的域名。"
+
+#: ../panel/mpanel-ui.php:1503
+msgid "TimThumb"
+msgstr "TimThumb 截图（建议开启）"
+
+#: ../panel/mpanel-ui.php:1507
+msgid "Crop mode"
+msgstr "截图模式"
+
+#: ../panel/mpanel-ui.php:1509
+msgid "Crop mode of thumb, default: Scaled in proportion(Cropping) ."
+msgstr "缩略图裁剪模式，默认：等比例缩小（适应最小边，裁剪大边，不变形）"
+
+#: ../panel/mpanel-ui.php:1510
+msgid "Fixed height and width(No cropping)"
+msgstr "直接压缩到固定高度和宽度（不裁剪，会变形）"
+
+#: ../panel/mpanel-ui.php:1511
+msgid "Scaled in proportion(Cropping)"
+msgstr "等比例缩小（适应最小边，裁剪大边，不变形）*"
+
+#: ../panel/mpanel-ui.php:1512
+msgid "Scaled in proportion(No cropping)"
+msgstr "等比例缩小（适应最大边，小边补白，不变形）"
+
+#: ../panel/mpanel-ui.php:1515
+msgid "Thumb Quality"
+msgstr "缩略图质量"
+
+#: ../panel/mpanel-ui.php:1518
+msgid "The quality of thumb, max 100, default 90 ."
+msgstr "缩略图生成的质量（数值越大，质量越高，体积越大），最大100，默认90。"
+
+#: ../panel/mpanel-ui.php:1533
+msgid "Export"
+msgstr "导出设置"
+
+#: ../panel/mpanel-ui.php:1539
+msgid "Import"
+msgstr "导入设置"
+
+#: ../panel/mpanel-ui.php:1551
+msgid "All settings will be rest .. Are you sure ?"
+msgstr "这个主题的所有设置都会恢复默认，你确定要执行吗？"
+
+#: ../panel/mpanel-ui.php:1551
+msgid "Reset Settings"
+msgstr "恢复默认设置"
+
+#: ../panel/shortcodes/shortcode.php:396
+msgid "About The Author"
+msgstr "关于作者"
+
+#~ msgid "Baidu share Type"
+#~ msgstr "百度图标类型"
+
+#~ msgid "Big Icon"
+#~ msgstr "大图标"
+
+#~ msgid "Small Icon"
+#~ msgstr "小图标"
+
+#~ msgid ""
+#~ "Important:  Please visit [Settins > Reading] to set \"Blog pages show at "
+#~ "most\" to <code>1</code>."
+#~ msgstr ""
+#~ "重要提示：请访问 【设置 - 阅读】将 \"博客页面至多显示\" 设置为 <code>1</"
+#~ "code>。"
+
+#~ msgid "QQ Mail"
+#~ msgstr "QQ邮箱"
+
+#~ msgid "ZhuaXia"
+#~ msgstr "抓虾"
+
+#~ msgid "Submit your suggestions"
+#~ msgstr "提交您的建议"
+
+#~ msgid "Feedback"
+#~ msgstr "反馈"
+
+#~ msgid "Return Top"
+#~ msgstr "返回顶部"
+
+#~ msgid "Welcome to submit your suggestions:"
+#~ msgstr "欢迎提交您的建议："
+
+#~ msgid "*Name:"
+#~ msgstr "*姓名："
+
+#~ msgid "*E-mail:"
+#~ msgstr "*邮箱："
+
+#~ msgid "*Message:"
+#~ msgstr "*信息："
+
+#~ msgid "*Enter the verification code:"
+#~ msgstr "*输入验证码："
+
+#~ msgid "New suggestions From: "
+#~ msgstr "新的建议来自："
+
+#~ msgid "Message sent successfully!"
+#~ msgstr "信息发送成功！"
+
+#~ msgid "Incorrect verification code!"
+#~ msgstr "验证码不正确！"
+
+#~ msgid "Module One"
+#~ msgstr "模块一"
+
+#~ msgid "Module Two"
+#~ msgstr "模块二"
+
+#~ msgid "View all posts in %s"
+#~ msgstr "查看 %s 下的所有文章"
+
+#~ msgid ""
+#~ "Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+#~ "Appearance > Widgets </a>\" to set \"Questions Widget Area\" , Or \"<a "
+#~ "target=\"_blank\" href=\"/wp-admin/admin.php?page=panel\"> Theme Setting "
+#~ "</a>\" to Set [Sidebars] option ."
+#~ msgstr ""
+#~ "请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工具 "
+#~ "</a>”设置“问答小工具区”；或者访问“<a target=\"_blank\" href=\"/wp-admin/"
+#~ "admin.php?page=panel\"> 主题设置 </a>”，配置【边栏设置】。"
+
+#~ msgid "Series: "
+#~ msgstr "系列："
+
+#~ msgid "Subscribe to this series"
+#~ msgstr "订阅该系列的文章"
+
+#~ msgid "Page Menu"
+#~ msgstr "页面菜单"
+
+#~ msgid "About Menu"
+#~ msgstr "关于菜单"
+
+#~ msgid "Help Menu"
+#~ msgstr "帮助菜单"
+
+#~ msgid "Left Menu"
+#~ msgstr "菜单"
+
+#~ msgid "Top Menu Navigation"
+#~ msgstr "顶部菜单"
+
+#~ msgid "Content"
+#~ msgstr "正文"
+
+#~ msgid "Popup Menu Settings"
+#~ msgstr "弹出菜单设置"
+
+#~ msgid "Display Popup Follows"
+#~ msgstr "显示“订阅关注”"
+
+#~ msgid "Display Popup Profile"
+#~ msgstr "显示“用户登录”"
+
+#~ msgid "Enter the widgets position(According to the display order)"
+#~ msgstr "输入需要滚动的小工具的位置（根据显示排序）"
+
+#~ msgid "Author: "
+#~ msgstr "作者："
+
+#~ msgid "Left Widget Area For Posts and Pages"
+#~ msgstr "左边栏小工具区（文章和页面）"
+
+#~ msgid ""
+#~ "Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+#~ "Appearance > Widgets </a>\" to set \"Left Widget Area (Posts and Pages)\"."
+#~ msgstr ""
+#~ "请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工"
+#~ "具  </a>”设置“左边栏小工具区（文章和页面）”。"
+
+#~ msgid "Left Widget Area For Homepage"
+#~ msgstr "左边栏小工具区（首页）"
+
+#~ msgid ""
+#~ "Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+#~ "Appearance > Widgets </a>\" to set \"Left Widget Area (Homepage)\"."
+#~ msgstr ""
+#~ "请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工具 "
+#~ "</a>”设置“左边栏小工具区（首页）”。"
+
+#~ msgid "Left Widget Area For Others"
+#~ msgstr "左边栏小工具区（其他）"
+
+#~ msgid ""
+#~ "Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+#~ "Appearance > Widgets </a>\" to set \"Left Widget Area (Others)\"."
+#~ msgstr ""
+#~ "请访问“<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> 外观 > 小工具 "
+#~ "</a>”设置“左边栏小工具区（其他）”。"
+
+#~ msgid "Type keywords to search …"
+#~ msgstr "输入关键字进行搜索"
+
+#~ msgid "About"
+#~ msgstr "关于"
+
+#~ msgid "You are here:"
+#~ msgstr "当前位置："
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "阅读全文 &raquo;"
+
+#~ msgctxt "Follows & Subscribe"
+#~ msgid "Subscribe"
+#~ msgstr "关注订阅"
+
+#~ msgid "Username"
+#~ msgstr "用户名"
+
+#~ msgid "Password"
+#~ msgstr "密码"
+
+#~ msgid "New Page"
+#~ msgstr "新建页面"
+
+#~ msgid "Edit Comments"
+#~ msgstr "管理评论"
+
+#~ msgid "Edit Profile"
+#~ msgstr "编辑资料"
+
+#~ msgid "The widget area for Left Sidebars(Homepage)"
+#~ msgstr "左边栏小工具区（首页）"
+
+#~ msgid "The widget area for Left Sidebars(Posts and Pages)"
+#~ msgstr "左边栏小工具区（文章和页面）"
+
+#~ msgid "The widget area for Left Sidebars(Others)"
+#~ msgstr "左边栏小工具区（除 文章和页面 外的其他页面）"
+
+#~ msgid "Breadcrumbs Delimiter"
+#~ msgstr "面包屑导航的分隔符"
+
+#~ msgid "Sticky Header"
+#~ msgstr "固定头部"
+
+#~ msgid "Homepage Layout"
+#~ msgstr "首页布局"
+
+#~ msgid "Blog Layout - Display latest posts"
+#~ msgstr "博客布局 - 显示最新文章"
+
+#~ msgid "Display Mode:"
+#~ msgstr "显示模式："
+
+#~ msgid "Bottom Banner Area"
+#~ msgstr "底部广告位"
+
+#~ msgid "Add Sidebar <span>(Effective only for the Right Sidebar)</span>"
+#~ msgstr "添加侧边栏<span>（只对右侧边栏生效）</span>"
+
+#~ msgid ""
+#~ "You can add more sidebar area, and then set different sidebar area for "
+#~ "different types of pages in the followding options."
+#~ msgstr ""
+#~ "您可以添加更多的侧边栏区域，然后在下面为不同的页面类型选择不同的侧边栏。"
+
+#~ msgid "Custom Sidebars <span>(Effective only for the Right Sidebar)</span>"
+#~ msgstr "自定义侧边栏<span>（只对右侧边栏生效）</span>"
+
+#~ msgid "Orange"
+#~ msgstr "橙色"
+
+#~ msgid "Green"
+#~ msgstr "绿色"
+
+#~ msgid "Red"
+#~ msgstr "红色"
+
+#~ msgid "Black"
+#~ msgstr "黑色"
+
+#~ msgid "Pink"
+#~ msgstr "粉红色"
+
+#~ msgid "All Content"
+#~ msgstr "输出全文"
+
+#~ msgid "Change Password"
+#~ msgstr "修改密码"
+
+#~ msgid "Comment Sensitive"
+#~ msgstr "限制评论敏感字符"
+
+#~ msgid ""
+#~ "If you want to restrict certain characters in comments, check this option "
+#~ "and enter some characters in the following textarea."
+#~ msgstr ""
+#~ "如果您不允许在评论中出现某些敏感字符，请选中该项，然后在下面的文本域中填写"
+#~ "敏感字符。"
+
+#~ msgid "Sensitive Characters"
+#~ msgstr "评论敏感字符"
+
+#~ msgid ""
+#~ "Enter sensitive characters, each separated by a vertical bar( | ), e.g. "
+#~ "チ|バ|ッ|美女|减肥"
+#~ msgstr ""
+#~ "输入不允许出现的敏感字符，每个字符使用竖线（|）分隔，例如 チ|バ|ッ|美女|减"
+#~ "肥"
+
+#~ msgid "Other Functions"
+#~ msgstr "其他功能"
+
+#~ msgid "Built-in Optional Functions"
+#~ msgstr "内置可选功能"
+
+#~ msgid "Header Settings"
+#~ msgstr "头部设置"
+
+#~ msgid "Article Settings"
+#~ msgstr "文章设置"
+
+#~ msgid "Slider Settings"
+#~ msgstr "幻灯设置"
+
+#~ msgid "Banners Settings"
+#~ msgstr "广告设置"
+
+#~ msgid "Notify On Theme Updates"
+#~ msgstr "主题升级通知"
+
+#~ msgid "Banner Image"
+#~ msgstr "广告图片"
+
+#~ msgid "Top Banner Link"
+#~ msgstr "底部广告链接"
+
+#~ msgid "Bottom Banner"
+#~ msgstr "底部广告"
+
+#~ msgid "Bottom Banner Image"
+#~ msgstr "底部广告图片"
+
+#~ msgid "Bottom Banner Link"
+#~ msgstr "底部广告链接"
+
+#~ msgid "Above Article Banner"
+#~ msgstr "文章顶部广告"
+
+#~ msgid "Above Article Banner Image"
+#~ msgstr "文章顶部广告图片"
+
+#~ msgid "Above Article Banner Link"
+#~ msgstr "文章顶部广告链接"
+
+#~ msgid "Below Article Banner"
+#~ msgstr "文章底部广告"
+
+#~ msgid "Below Article Banner Image"
+#~ msgstr "文章底部广告图片"
+
+#~ msgid "Below Article Banner Link"
+#~ msgstr "文章底部广告链接"
+
+#~ msgid "Worpress Login page Logo"
+#~ msgstr "Worpress登录页面的 Logo"
+
+#~ msgid " - Authors Posts"
+#~ msgstr " - 作者文章"
+
+#~ msgid "Authors Posts"
+#~ msgstr "作者文章"
+
+#~ msgid "Display Avatars : "
+#~ msgstr "显示头像："
+
+#~ msgid " - Recently Comments "
+#~ msgstr " - 最新评论"
+
+#~ msgid "Display avatar of the most active readers"
+#~ msgstr "显示近期最活跃的读者的头像"
+
+#~ msgid " Blog Statistics"
+#~ msgstr "博客统计"
+
+#~ msgid "Blog Statistics"
+#~ msgstr "博客统计"
+
+#~ msgid "Display author's other posts."
+#~ msgstr "显示作者的其他文章"
+
+#~ msgid "Display Site Title"
+#~ msgstr "显示网站标题"
+
+#~ msgid "Custom Logo Image"
+#~ msgstr "自定义Logo图片"
+
+#~ msgid ""
+#~ "Upload a logo image, or enter URL to an image if it is already uploaded. "
+#~ "the theme default logo gets applied if the input field is left blank."
+#~ msgstr ""
+#~ "上传一个 Logo 图片，或者填入一个已经上传好的图片的URL链接。如果留空，将使"
+#~ "用主题默认的Logo。"
+
+#~ msgid "Logo Margin Top"
+#~ msgstr "Logo的上边距"
+
+#~ msgid "Input number to set the top space of the logo ."
+#~ msgstr "输入数字设置 Logo 到顶部的边距。"
+
+#~ msgid "Disable the Responsiveness"
+#~ msgstr "停用响应式布局"
+
+#~ msgid "Disable Responsive"
+#~ msgstr "停用响应式布局"
+
+#~ msgid "Your comment is awaiting moderation…"
+#~ msgstr "您的评论正在等待审核……"
+
+#~ msgid "You can use WP menu builder to build menus"
+#~ msgstr "请访问“后台 > 外观 > 菜单”设置一个菜单"
+
+#~ msgid "QQ Email List"
+#~ msgstr "QQ邮箱订阅列表"
+
+#~ msgid "QQ Email Email-me"
+#~ msgstr "QQ邮箱“邮我”"
+
+#~ msgid "Display"
+#~ msgstr "显示"
+
+#~ msgid ""
+#~ "will appears in all archives pages like categories / tags / search and in "
+#~ "homepage blog style ."
+#~ msgstr ""
+#~ "将出现在所有的存档页面，比如分类页面、标签页、搜索结果页和博客样式的首页。"
+
+#~ msgid "Excerpt + Featured image"
+#~ msgstr "摘要 + 小缩略图"
+
+#~ msgid "Excerpt + Full width Featured image"
+#~ msgstr "摘要 + 大缩略图"
+
+#~ msgid "Theme Updates"
+#~ msgstr " 主题更新"
+
+#~ msgid "Breaking News"
+#~ msgstr "新闻头条"
+
+#~ msgid " Advertisement"
+#~ msgstr "广而告之"
+
+#~ msgid " - Tabbed"
+#~ msgstr " - TAB选项卡"
+
+#~ msgid "Recent"
+#~ msgstr "最新"
+
+#~ msgid "Comments"
+#~ msgstr "评论"
+
+#~ msgid "Go to..."
+#~ msgstr "Go to..."
+
+#~ msgid "No items."
+#~ msgstr "没有项目"
+
+#~ msgid "Welcome"
+#~ msgstr "欢迎"
+
+#~ msgid "Review Overview"
+#~ msgstr "预览"
+
+#~ msgid "Summary :"
+#~ msgstr "摘要："
+
+#~ msgid " 's site"
+#~ msgstr "的网站"
+
+#~ msgid "  on Twitter"
+#~ msgstr "关注 Twitter"
+
+#~ msgid "  on Facebook"
+#~ msgstr "关注 Facebook"
+
+#~ msgid "  on Google+"
+#~ msgstr "关注 Google+"
+
+#~ msgid "  on Linkedin"
+#~ msgstr "关注 Linkedin"
+
+#~ msgid "  on Flickr"
+#~ msgstr "关注 Flickr"
+
+#~ msgid "  on YouTube"
+#~ msgstr "关注 YouTube"
+
+#~ msgid "  on Pinterest"
+#~ msgstr "关注 Pinterest"
+
+#~ msgid " has a new message!"
+#~ msgstr "有新的建议信息！"
+
+#~ msgid "Archive of tag : %s"
+#~ msgstr "与标签【%s】关联的文章存档"
+
+#~ msgid "Page %s description:"
+#~ msgstr "第 %s 页描述："
+
+#~ msgid "page "
+#~ msgstr "页码"
+
+#~ msgid "e.g. admin@cmhello.com"
+#~ msgstr "例如 admin@cmhello.com"
+
+#~ msgid "Search in Category IDs"
+#~ msgstr "在这些分类中搜索"
+
+#~ msgid ""
+#~ "Use minus sign (-) to exclude categories. Example: (1,4,-7) = search only "
+#~ "in Category 1 & 4, and exclude Category 7."
+#~ msgstr ""
+#~ "使用减号（-）来排除分类。例如 （1,4,-7）表示只搜索 ID 为 1 和 4 的分类，不"
+#~ "搜索 ID 为 7  的分类。"
+
+#~ msgid "Share !"
+#~ msgstr "分享！"
+
+#~ msgid "Tweet Button"
+#~ msgstr "Tweet 按钮"
+
+#~ msgid "Twitter Username <small>(optional)</small>"
+#~ msgstr "Twitter 用户名<small>（可选）</small>"
+
+#~ msgid "Facebook Like Button"
+#~ msgstr "Facebook 按钮"
+
+#~ msgid "Google+ Button"
+#~ msgstr "Google+ 按钮"
+
+#~ msgid "Linkedin Button"
+#~ msgstr "Linkedin 按钮"
+
+#~ msgid "StumbleUpon Button"
+#~ msgstr "StumbleUpon 按钮"
+
+#~ msgid "Pinterest Button"
+#~ msgstr "Pinterest 按钮"
+
+#~ msgid "Contact message from "
+#~ msgstr "联系信息来自"
+
+#~ msgid "Verification code input errors!"
+#~ msgstr "验证码输入错误！"
+
+#~ msgid "Name*"
+#~ msgstr "昵称*"
+
+#, fuzzy
+#~ msgid "Submit*"
+#~ msgstr "提交"
+
+#~ msgid "Thank you for leaving a message."
+#~ msgstr "非常感谢您的留言"
+
+#~ msgid " - Social Icons"
+#~ msgstr " - 社交图标"
+
+#~ msgid "Social"
+#~ msgstr "社交"
+
+#~ msgid "Open links in a new tab :"
+#~ msgstr "在新标签中打开链接："
+
+#~ msgid "Icons Size : "
+#~ msgstr "图标大小："
+
+#~ msgid "Custom homepage QR code(Enter image URL) : "
+#~ msgstr "自定义首页二维码（输入图片地址）："
+
+#, fuzzy
+#~ msgid "Title :"
+#~ msgstr "标题："
+
+#, fuzzy
+#~ msgid "Number of Vistors: "
+#~ msgstr "文章数量："
+
+#~ msgid "Transparent Background :"
+#~ msgstr "透明背景："
+
+#~ msgid "if this active the title will disappear"
+#~ msgstr "选择这个选项，标题将不显示"
+
+#~ msgid "height of images: "
+#~ msgstr "图片高度："
+
+#~ msgid "1 Comment"
+#~ msgstr "1 条评论"
+
+#~ msgid "Daily Archives: <span>%s</span>"
+#~ msgstr "每日文章存档： <span>%s</span>"
+
+#~ msgid "Monthly Archives: <span>%s</span>"
+#~ msgstr "每月文章存档：<span>%s</span>"
+
+#~ msgid "Yearly Archives: <span>%s</span>"
+#~ msgstr "每年文章存档：<span>%s</span>"
+
+#~ msgid "Footer Text"
+#~ msgstr "页脚内容"
+
+#~ msgid "e.g. Any text you want to display in footer."
+#~ msgstr "你可以输入任何需要的文字"
+
+#~ msgid "Time & Domain"
+#~ msgstr "时间和域名"
+
+#~ msgid "e.g. 2010-2013 CmHello.com"
+#~ msgstr "例如 2010-2013 CmHello.com"
+
+#~ msgid "Bei’an"
+#~ msgstr "备案号"
+
+#~ msgid "e.g. 鄂ICP备09020750号-2"
+#~ msgstr "例如 鄂ICP备09020750号-2"
+
+#~ msgid "Analysis code"
+#~ msgstr "统计代码"
+
+#~ msgid "e.g. Such as Baidu/Google Analysis code."
+#~ msgstr "例如 百度统计、谷歌分析等代码"
+
+#~ msgid "Show Socail Buttons"
+#~ msgstr "显示社交按钮"
+
+#~ msgid ""
+#~ "if checked Facebook , Twitter , Google plus and Pinterest socail buttons "
+#~ "will appear in all archives pages like categories / tags / search and in "
+#~ "homepage blog style ."
+#~ msgstr ""
+#~ "如果选中，Facebook , Twitter , Google+ and Pinterest 这些社交按钮将出现在"
+#~ "所有存档页面，比如分类页面、标签页面、搜索结果页和博客样式的首页。"
+
+#~ msgid "TimThumb <small style='font-weight:bold;'>(Not Recommended)</small>"
+#~ msgstr "TimThumb 截图 <small style='font-weight:bold;'>（推荐开启）</small>"
+
+#~ msgid ""
+#~ "Using -id to exclude categories from latest posts on homepage,such as "
+#~ "-2,-4,-15 ."
+#~ msgstr ""
+#~ "使用 -id 可以在首页最新文章中排除某些分类的文章，比如 -2,-4,-15 表示排除ID"
+#~ "为2,4,15的分类，多个id使用英文逗号隔开。"
+
+#~ msgid "Skins"
+#~ msgstr "皮肤设置"
+
+#~ msgid ""
+#~ "The following code will add to the footer before the closing  &lt;/"
+#~ "body&gt; tag. Useful if you need to Javascript or tracking code."
+#~ msgstr ""
+#~ "下面的代码将添加在页脚 &lt;/body&gt; 标签的前面。你可以添加额外的JS代码"
+#~ "（如百度统计、CNZZ、51统计等）"
+
+#~ msgid "Dark Skin"
+#~ msgstr "黑色皮肤"
+
+#~ msgid "Choose Your Skin"
+#~ msgstr "选择皮肤"
+
+#~ msgid "Background Type"
+#~ msgstr "背景类型"
+
+#~ msgid "Choose Pattern"
+#~ msgstr "选择模式"
+
+#~ msgid "Background Color"
+#~ msgstr "背景颜色"
+
+#~ msgid "Custom Background"
+#~ msgstr "自定义背景"
+
+#~ msgid "Full Screen Background"
+#~ msgstr "全屏背景"
+
+#~ msgid "Body Styling"
+#~ msgstr "主体样式"
+
+#~ msgid "Global main Color"
+#~ msgstr "全局颜色"
+
+#~ msgid "Links Color"
+#~ msgstr "链接颜色"
+
+#~ msgid "Links Decoration"
+#~ msgstr "链接装饰"
+
+#~ msgid "Links Color on mouse over"
+#~ msgstr "鼠标滑过的链接颜色"
+
+#~ msgid "Links Decoration on mouse over"
+#~ msgstr "鼠标滑过的链接装饰"
+
+#~ msgid "Top Navigation Styling"
+#~ msgstr "顶部菜单样式"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Today Date background"
+#~ msgstr "日期背景"
+
+#~ msgid "Today Date text color"
+#~ msgstr "日期文本颜色"
+
+#~ msgid "Header Background"
+#~ msgstr "头部背景"
+
+#~ msgid "Breaking News Styling"
+#~ msgstr "头条新闻的样式"
+
+#~ msgid "Breaking News Text Background"
+#~ msgstr "头条新闻的文本背景"
+
+#~ msgid "Content Styling"
+#~ msgstr "内容样式"
+
+#~ msgid "Main Content Box Background "
+#~ msgstr "主要内容模块的背景"
+
+#~ msgid "Boxes / Widgets Background "
+#~ msgstr "模块/小工具 背景"
+
+#~ msgid "Post Links Color"
+#~ msgstr "文章链接颜色"
+
+#~ msgid "Post Links Decoration"
+#~ msgstr "文章链接装饰"
+
+#~ msgid "Post Links Color on mouse over"
+#~ msgstr "鼠标滑过的文章链接颜色"
+
+#~ msgid "Post Links Decoration on mouse over"
+#~ msgstr "鼠标滑过的文章链接装饰"
+
+#~ msgid "Footer Background"
+#~ msgstr "页脚背景"
+
+#~ msgid "Footer Widget Title color"
+#~ msgstr "页脚小工具的标题颜色"
+
+#~ msgid "<strong>Tablets CSS :</strong> Width from 768px to 985px"
+#~ msgstr "<strong>平板电脑 CSS：</strong> 宽度从 768px 到 985px"
+
+#~ msgid "<strong>Wide Phones CSS :</strong> Width from 480px to 767px"
+#~ msgstr "<strong>宽屏手机 CSS：</strong> 宽度从 480px 到 767px"
+
+#~ msgid "<strong> Phones CSS :</strong> Width from 320px to 479px"
+#~ msgstr "<strong> 手机 CSS :</strong> 宽度从320px 到 479px"
+
+#~ msgid "on "
+#~ msgstr "发布于 "
+
+#~ msgid "in "
+#~ msgstr "分类："
+
+#~ msgid " Theme Updates"
+#~ msgstr " 主题升级"
+
+#~ msgid "1 Update"
+#~ msgstr "1 更新"
+
+#~ msgid " theme has a new version now . You have version "
+#~ msgstr " 主题已经更新了！你目前安装的版本是 "
+
+#~ msgid " installed. Please update to version "
+#~ msgstr " ，请升级到版本 "
+
+#~ msgid "%s "
+#~ msgstr "%s "
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s at %2$s"
+
+#~ msgid "(Edit)"
+#~ msgstr "(编辑)"
+
+#~ msgid "Pingback:"
+#~ msgstr "Pingback:"
+
+#~ msgid " - Custom Author Content"
+#~ msgstr " - 自定义作者内容"
+
+#~ msgid " - Recent Comments with avatar"
+#~ msgstr " - 带头像的最新评论"
+
+#~ msgid "Avatar Size : "
+#~ msgstr "头像大小："
+
+#~ msgid " - Social Counter"
+#~ msgstr " - 社交统计"
+
+#~ msgid "To RSS Feed"
+#~ msgstr "RSS提要"
+
+#~ msgid "Followers"
+#~ msgstr "关注人"
+
+#~ msgid "Fans"
+#~ msgstr "粉丝"
+
+#~ msgid "Open links in a new window:"
+#~ msgstr "在新窗口中打开链接："
+
+#~ msgid "Feed URL : "
+#~ msgstr "Feed URL："
+
+#~ msgid "Facebook Page URL : "
+#~ msgstr "Facebook URL："
+
+#~ msgid ""
+#~ "Link must be like http://www.facebook.com/username/ or http://www."
+#~ "facebook.com/PageID/"
+#~ msgstr ""
+#~ "链接应该想这样：http://www.facebook.com/username/ 或 http://www.facebook."
+#~ "com/PageID/"
+
+#~ msgid "Enable Twitter : "
+#~ msgstr "启用 Twitter："
+
+#~ msgid ""
+#~ "Make sure you Setup Twitter API OAuth settings under Tiepanel > Advanced "
+#~ "tab"
+#~ msgstr "请确保你已经在  Tiepanel > Advanced tab 设置了 Twitter API OAuth "
+
+#~ msgid "Youtube Channel URL : "
+#~ msgstr "YouTube URL："
+
+#~ msgid "Link must be like http://www.youtube.com/user/username "
+#~ msgstr "链接应该像这样：http://www.youtube.com/user/username "
+
+#~ msgid "Vimeo Channel URL : "
+#~ msgstr "Vimeo URL："
+
+#~ msgid "Link must be like http://vimeo.com/channels/username "
+#~ msgstr "链接应该像这样：http://vimeo.com/channels/username "
+
+#~ msgid "dribbble Page URL :"
+#~ msgstr "dribbble URL："
+
+#~ msgid "Link must be like http://dribbble.com/username"
+#~ msgstr "链接应该像这样：http://dribbble.com/username"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "在 Facebook 上关注我们"
+
+#~ msgid "FeedBurner Widget"
+#~ msgstr "订阅 小工具"
+
+#~ msgid "Subscribe to our email newsletter."
+#~ msgstr "订阅我们的更新邮件"
+
+#~ msgid " - Review Box"
+#~ msgstr " - 回顾模块"
+
+#~ msgid " - Search"
+#~ msgstr " - 搜索"
+
+#~ msgid "to search type and hit enter"
+#~ msgstr "输入关键字进行搜索"
+
+#~ msgid "%s ago"
+#~ msgstr "%s 之前"
+
+#~ msgid "Y/m/d"
+#~ msgstr "Y/m/d"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Y/m/d H:i:s"
+#~ msgstr "Y/m/d H:i:s"
+
+#~ msgid "@Follow Me"
+#~ msgstr "@关注我"
+
+#~ msgid " Featured Video"
+#~ msgstr "视频功能"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Footer Settings"
+#~ msgstr "页脚设置"
+
+#~ msgid "Categories Design"
+#~ msgstr "分类设计"
+
+#~ msgid "Typography"
+#~ msgstr "排版设置"
+
+#~ msgid "Header Menus Settings"
+#~ msgstr "头部菜单设置"
+
+#~ msgid "Today Date"
+#~ msgstr "日期"
+
+#~ msgid "Today Date Format"
+#~ msgstr "日期格式"
+
+#~ msgid "Top Menu Right Area"
+#~ msgstr "顶部菜单右侧区域"
+
+#~ msgid "Breaking News Title"
+#~ msgstr "头条新闻的标题"
+
+#~ msgid "Animation Effect"
+#~ msgstr "动画效果"
+
+#~ msgid "Animation Speed"
+#~ msgstr "动画速度"
+
+#~ msgid "Time between the fades"
+#~ msgstr "淡入淡出的时间间隔"
+
+#~ msgid "Breaking News Query Type"
+#~ msgstr "头条新闻的调用类型"
+
+#~ msgid "Breaking News Tags"
+#~ msgstr "头条新闻的标签"
+
+#~ msgid "Breaking News Categories"
+#~ msgstr "头条新闻的分类"
+
+#~ msgid "Breaking News Custom Text"
+#~ msgstr "头条新闻的自定义文本"
+
+#~ msgid "Hide Rss Icon"
+#~ msgstr "隐藏 RSS 图标"
+
+#~ msgid "Facebook URL"
+#~ msgstr "Facebook URL"
+
+#~ msgid "MySpace URL"
+#~ msgstr "MySpace URL"
+
+#~ msgid "Orkut URL"
+#~ msgstr "Orkut URL"
+
+#~ msgid "dribbble URL"
+#~ msgstr "dribbble URL"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "LinkedIn URL"
+
+#~ msgid "evernote URL"
+#~ msgstr "evernote URL"
+
+#~ msgid "dopplr URL"
+#~ msgstr "dopplr URL"
+
+#~ msgid "ember URL"
+#~ msgstr "ember URL"
+
+#~ msgid "Flickr URL"
+#~ msgstr "Flickr URL"
+
+#~ msgid "Picasa Web URL"
+#~ msgstr "Picasa Web URL"
+
+#~ msgid "DeviantArt URL"
+#~ msgstr "DeviantArt URL"
+
+#~ msgid "YouTube URL"
+#~ msgstr "YouTube URL"
+
+#~ msgid "technorati URL"
+#~ msgstr "technorati URL"
+
+#~ msgid "grooveshark URL"
+#~ msgstr "grooveshark URL"
+
+#~ msgid "Vimeo URL"
+#~ msgstr "Vimeo URL"
+
+#~ msgid "ShareThis URL"
+#~ msgstr "ShareThis URL"
+
+#~ msgid "yahoobuzz URL"
+#~ msgstr "yahoobuzz URL"
+
+#~ msgid "viddler URL"
+#~ msgstr "viddler URL"
+
+#~ msgid "Skype URL"
+#~ msgstr "Skype URL"
+
+#~ msgid "Google googletalk URL"
+#~ msgstr "Google googletalk URL"
+
+#~ msgid "Digg URL"
+#~ msgstr "DeviantArt URL"
+
+#~ msgid "Reddit URL"
+#~ msgstr "Reddit URL"
+
+#~ msgid "Delicious URL"
+#~ msgstr "Delicious URL"
+
+#~ msgid "StumbleUpon  URL"
+#~ msgstr "StumbleUpon  URL"
+
+#~ msgid "FriendFeed URL"
+#~ msgstr "FriendFeed URL"
+
+#~ msgid "Tumblr URL"
+#~ msgstr "Tumblr URL"
+
+#~ msgid "Blogger URL"
+#~ msgstr "Blogger URL"
+
+#~ msgid "Wordpress URL"
+#~ msgstr "Wordpress URL"
+
+#~ msgid "Yelp URL"
+#~ msgstr "Yelp URL"
+
+#~ msgid "posterous URL"
+#~ msgstr "posterous URL"
+
+#~ msgid "Design Moo URL"
+#~ msgstr "Design Moo URL"
+
+#~ msgid "Bebo URL"
+#~ msgstr "Bebo URL"
+
+#~ msgid "virb URL"
+#~ msgstr "virb URL"
+
+#~ msgid "Last.fm URL"
+#~ msgstr "Last.fm URL"
+
+#~ msgid "Pandora URL"
+#~ msgstr "Pandora URL"
+
+#~ msgid "Apple URL"
+#~ msgstr "Apple URL"
+
+#~ msgid "mixx URL"
+#~ msgstr "mixx URL"
+
+#~ msgid "Newsvine URL"
+#~ msgstr "Newsvine URL"
+
+#~ msgid "openid URL"
+#~ msgstr "openid URL"
+
+#~ msgid "readernaut URL"
+#~ msgstr "readernaut URL"
+
+#~ msgid "xing.me URL"
+#~ msgstr "xing.me URL"
+
+#~ msgid "Google Play URL"
+#~ msgstr "Google Play URL"
+
+#~ msgid "Forrst URL"
+#~ msgstr "Forrst URL"
+
+#~ msgid "Instagram URL"
+#~ msgstr "Instagram URL"
+
+#~ msgid "Spotify URL"
+#~ msgstr "Spotify URL"
+
+#~ msgid "PayPal URL"
+#~ msgstr "PayPal URL"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "Pinterest URL"
+
+#~ msgid "Behance URL"
+#~ msgstr "Behance URL"
+
+#~ msgid "Viadeo URL"
+#~ msgstr "Viadeo URL"
+
+#~ msgid "VK.com URL"
+#~ msgstr "VK.com URL"
+
+#~ msgid "Categories Sliders Settings"
+#~ msgstr "分类幻灯设置"
+
+#~ msgid "Adding Comment Validation"
+#~ msgstr "添加评论验证"
+
+#~ msgid "Footer Elements"
+#~ msgstr "页脚元素"
+
+#~ msgid "[Go To Top] Icon"
+#~ msgstr "【返回顶部】按钮"
+
+#~ msgid "Footer Column layout"
+#~ msgstr "页脚分栏布局"
+
+#~ msgid "Footer Text Two"
+#~ msgstr "页脚文本二"
+
+#~ msgid "Category Style "
+#~ msgstr "分类样式"
+
+#~ msgid "Main color"
+#~ msgstr "主要颜色"
+
+#~ msgid "Character sets"
+#~ msgstr "字符设置"
+
+#~ msgid ""
+#~ "<strong>Tip:</strong> If you choose only the languages that you need, "
+#~ "you'll help prevent slowness on your webpage."
+#~ msgstr ""
+#~ "<strong>提示：</strong>建议只选择你需要的语言，有助于加快网页的加载速度。"
+
+#~ msgid "Latin Extended"
+#~ msgstr "Latin 扩展"
+
+#~ msgid "Cyrillic"
+#~ msgstr "Cyrillic"
+
+#~ msgid "Cyrillic Extended"
+#~ msgstr "Cyrillic 扩展"
+
+#~ msgid "Greek Extended"
+#~ msgstr "Greek 扩展"
+
+#~ msgid "Main Typography"
+#~ msgstr "主要排版"
+
+#~ msgid "General Typography"
+#~ msgstr "常规排版"
+
+#~ msgid "Main navigation"
+#~ msgstr "主菜单"
+
+#~ msgid "Single Post Title"
+#~ msgstr "文章标题"
+
+#~ msgid "Post Entry"
+#~ msgstr "发表入口"
+
+#~ msgid "News Boxes Titles"
+#~ msgstr "内容模块标题"
+
+#~ msgid "Footer Widgets Titles"
+#~ msgstr "页脚小工具标题"
+
+#~ msgid "Post Headings"
+#~ msgstr "文章标题"
+
+#~ msgid "H1 Typography"
+#~ msgstr "H1 格式"
+
+#~ msgid "H2 Typography"
+#~ msgstr "H2 格式"
+
+#~ msgid "H3 Typography"
+#~ msgstr "H3 格式"
+
+#~ msgid "H4 Typography"
+#~ msgstr "H4 格式"
+
+#~ msgid "H5 Typography"
+#~ msgstr "H5 格式"
+
+#~ msgid "H6 Typography"
+#~ msgstr "H6 格式"
+
+#~ msgid "Twitter API OAuth settings"
+#~ msgstr "Twitter API OAuth 设置"
+
+#~ msgid ""
+#~ "This information will uses in Social counter and Twitter Widget. You need "
+#~ "to create <a href=\"https://dev.twitter.com/apps\" target=\"_blank"
+#~ "\">Twitter APP</a> to get this info .. check this <a href=\"https://vimeo."
+#~ "com/59573397\" target=\"_blank\">Video</a> ."
+#~ msgstr ""
+#~ "这些信息将用在社交统计和Twitter小工具中。你需要创建<a href=\"https://dev."
+#~ "twitter.com/apps\" target=\"_blank\"> Twitter APP </a>来获取信息。观看这个"
+#~ "<a href=\"https://vimeo.com/59573397\" target=\"_blank\"> 视频 </a>"
+
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter 用户名"
+
+#~ msgid "Consumer key"
+#~ msgstr "Consumer key"
+
+#~ msgid "Consumer secret"
+#~ msgstr "Consumer secret"
+
+#~ msgid "Access token"
+#~ msgstr "Access token"
+
+#~ msgid "Access token secret"
+#~ msgstr "Access token secret"
+
+#~ msgid "Show Featured Image"
+#~ msgstr "显示特色图片"
+
+#~ msgid "Enter a category ID, or IDs seprated by comma. "
+#~ msgstr "输入页面 ID，多个 ID 使用英文逗号隔开。"
+
+#~ msgid ""
+#~ "Please go to \"Appearance > Widgets\" to set \"Primary Widget Area\"."
+#~ msgstr ""
+#~ "请访问“外观 > 小工具”设置“默认小工具区”；或者访问“CmHello > CmHello 设"
+#~ "置“，通过【边栏设置】来自定义右边栏小工具。"
+
+#~ msgid ""
+#~ "Please go to \"Appearance > Widgets\" to set \"Left Widget Area "
+#~ "(Others)\"."
+#~ msgstr "请访问“外观 > 小工具”设置“左边栏小工具区（其他）”。"
+
+#~ msgid "Leave a Reply ?"
+#~ msgstr "发表评论"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr "您必须 <a href=\"%s\">登录</a> 后才能发表评论"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "已登录：<a href=\"%1$s\">%2$s</a>，<a href=\"%3$s\" title=\"退出\">退出？"
+#~ "</a>"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> 更早的评论"
+
+#~ msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "更新的评论"
+
+#~ msgid " Required fields are marked"
+#~ msgstr "必填"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "我们不会公开您的邮箱"
+
+#~ msgid "Cancel reply"
+#~ msgstr "取消评论"
+
+#~ msgid "Second Footer Widget Area"
+#~ msgstr "底部小工具二区"
+
+#~ msgid "The Second footer widget area"
+#~ msgstr "第二个小工具区"
+
+#~ msgid "Third Footer Widget Area"
+#~ msgstr "底部小工具三区"
+
+#~ msgid "The Third footer widget area"
+#~ msgstr "第三个底部小工具区"
+
+#~ msgid "Fourth Footer Widget Area"
+#~ msgstr "底部小工具四区"
+
+#~ msgid "The Fourth footer widget area"
+#~ msgstr "第四个底部小工具区"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "分类文章存档：%s"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "主菜单"
+
+#~ msgid "Slider Type"
+#~ msgstr "幻灯类型"
+
+#~ msgid "Elastic Slideshow Settings"
+#~ msgstr "Elastic 幻灯设置"
+
+#~ msgid "Flexi Slider Settings"
+#~ msgstr "Flexi 幻灯设置"
+
+#, fuzzy
+#~ msgid "Don"
+#~ msgstr "发布于 "
+
+#~ msgid ""
+#~ "Apologies, but the page you requested could not be found. Perhaps "
+#~ "searching will help."
+#~ msgstr "抱歉，您要找的页面不存在。"
+
+#~ msgid "Search..."
+#~ msgstr "搜索关键字"
+
+#~ msgid " to view this page."
+#~ msgstr "才能查看这篇文章"
