@@ -1,0 +1,19 @@
+#user-nav ul{margin-left: 3px;}
+#user-nav > ul > li > a i{line-height: 14px;padding-top: 5px;}
+#user-nav > ul > li > a .text {line-height: 14px;padding-top: -5px;}
+#search input[type=text]{margin-top: 2px;padding:4px 5px;}
+#search button{border:0;margin-left:0;padding:5px;margin-top: 2px;}
+.user-login {margin: 10px 6px;}
+.user-login li input.login-btn{padding:0 12px;}
+.user-login li a.pw-reset{padding:3px 7px;}
+#sidebar > ul >li{display:inline-block;}
+#sidebar > ul > li > a{padding:11px 0 11px 15px;}
+.footer-nav ul{text-align: left;}
+.bx-wrapper img{display:inline-block;width: auto !important; max-width: 100% !important;height:auto !important; }
+.home-adpic .widget-content {padding: 14px;}
+.two-row .other-posts,.two-row .other-news,.home-tabs .other-posts,.home-tabs .other-news{margin-left: 0;margin-right: 10px; width: 48.5%;}
+.three-row .other-posts,.three-row .other-news{margin-left: 0;  width: 32.33333%;margin-right: 10px;}
+.archive-simple .post-meta{margin-top: -24px;}
+@media screen and (max-width:767px){
+	.archive-simple p.post-meta{width: 98%;float: left;margin-top: 0;}
+}
